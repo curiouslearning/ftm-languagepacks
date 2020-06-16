@@ -1,0 +1,84 @@
+<XMLLevel CollectableMonster="" HideCallout="4" LettersGroup="3" SegmentTime="12" StoneType="1" monsterInputType="Word">
+	<Segments>
+		<Segment SegmentTime="12" spawnIds="">
+			
+			<MonsterRequiredLetters>
+				<string>ვ</string>
+				<string>ი</string>
+			</MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string spawnId="82">შ</string>
+				<string spawnId="55">ბ</string>
+				<string spawnId="83">ვ</string>
+				<string spawnId="54">ი</string>
+				<string bonusScore="275" spawnId="60">BonusLetter</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ჩ</string>
+			<string>ი</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="21">ს</string>
+			<string spawnId="89">კ</string>
+			<string spawnId="90">ჩ</string>
+			<string spawnId="22">ი</string>
+			<string spawnId="60">MagnetLetter</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="4,5,54,55">
+		
+		<MonsterRequiredLetters>
+			<string>ჩ</string>
+			<string>ი</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ს</string>
+			<string>ს</string>
+			<string>ჩ</string>
+			<string>ი</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="70,71,56,57">
+		
+		<MonsterRequiredLetters>
+			<string>ჩ</string>
+			<string>ი</string>
+			<string>რ</string>
+		<string>ი</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ჩ</string>
+			<string>ი</string>
+			<string>რ</string>
+			<string>ი</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="12" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ჩ</string>
+			<string>ი</string>
+			<string>რ</string>
+		<string>ი</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="25">ჩ</string>
+			<string spawnId="75">ი</string>
+			<string spawnId="74">რ</string>
+			<string spawnId="28">ი</string>
+			<string spawnId="60">MagnetLetter</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

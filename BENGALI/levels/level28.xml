@@ -1,0 +1,88 @@
+<XMLLevel CollectableMonster="" HideCallout="5" LettersGroup="3" SegmentTime="10" StoneType="1" monsterInputType="Letter">
+  <Segments>
+    <Segment SegmentTime="10" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>ন</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="22">ঝ</string>
+    		<string spawnId="4">ঝ</string>
+    		<string spawnId="76">ঠ</string>
+    		<string spawnId="21">ই</string>
+			<string spawnId="5">ঞ</string>
+			<string spawnId="73">ন</string>	
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ঠ</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string spawnId="19">ঠ</string>
+        	<string spawnId="18">চ</string>
+        	<string delayIn="0" delayRepet="0" loop="true" spawnId="11,86,11" speed="125">ঝ</string>
+        	<string delayIn="0" delayRepet="0" loop="true" spawnId="87,12,87" speed="125">ঞ</string>
+			<string spawnId="69">ঠ</string>
+			<string spawnId="72">ঝ</string>
+			<string spawnId="81">ঠ</string>
+			<string bonusScore="275" spawnId="84">BonusLetter</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ঞ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="25">ন</string>
+	        <string spawnId="45">ঠ</string>
+	        <string spawnId="93">জ</string>
+			<string spawnId="94">ঠ</string>
+			<string spawnId="36">ঞ</string>
+			<string spawnId="28">ঞ</string>
+      	</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ঝ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="58">ন</string>
+	        <string delayIn="0" delayRepet="0" loop="true" spawnId="45,36,45" speed="150">ঝ</string>
+	        <string spawnId="62">ঠ</string>
+			<string delayIn="0" delayRepet="0" loop="true" spawnId="93,94,93" speed="150">জ</string>
+			<string spawnId="66">ই</string>
+			<string spawnId="67">ঝ</string>
+			<string spawnId="27">ঝ</string>
+			<string bonusScore="275" spawnId="26">BonusLetter</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>জ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="90">জ</string>
+	        <string spawnId="55">ন</string>
+	        <string spawnId="96">ই</string>
+			<string spawnId="89">ন</string>
+			<string spawnId="54">জ</string>
+			<string spawnId="95">জ</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

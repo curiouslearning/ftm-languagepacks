@@ -1,0 +1,95 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="6" SegmentTime="10" StoneType="1" monsterInputType="SoundWord">
+	<Segments>
+		<Segment SegmentTime="10" spawnIds="">
+			
+			<MonsterRequiredLetters>
+				<string>ბ</string>
+				<string>უ</string>
+				</MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string spawnId="81">შ</string>
+				<string spawnId="55">კ</string>
+				<string spawnId="90">კ</string>
+				<string spawnId="60">შ</string>
+				<string spawnId="89">შ</string>
+				<string spawnId="54">ბ</string>
+				<string spawnId="84">უ</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
+		<MonsterRequiredLetters>
+			<string>ძ</string>
+			<string>უ</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>კ</string>
+			<string>ს</string>
+			<string>ბ</string>
+			<string>ს</string>
+			<string>შ</string>
+			<string>ძ</string>
+			<string>უ</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
+		<MonsterRequiredLetters>
+			<string>ბ</string>
+			<string>უ</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ძ</string>
+			<string>შ</string>
+			<string>შ</string>
+			<string>ს</string>
+			<string>კ</string>
+			<string>ბ</string>
+			<string>უ</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
+		<MonsterRequiredLetters>
+			<string>ბ</string>
+			<string>უ</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>კ</string>
+			<string>კ</string>
+			<string>ძ</string>
+			<string>ძ</string>       
+			<string>კ</string>
+			<string>ბ</string>
+			<string>უ</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
+		<MonsterRequiredLetters>
+			<string>ძ</string>
+			<string>უ</string>
+			<string>ძ</string>
+		<string>უ</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>კ</string>
+			<string>კ</string>
+			<string>ს</string>
+			<string>ძ</string>
+			<string>უ</string>
+			<string>ძ</string>
+			<string>უ</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

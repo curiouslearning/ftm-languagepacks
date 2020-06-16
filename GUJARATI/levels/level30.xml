@@ -1,0 +1,85 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="8" SegmentTime="11" StoneType="1" monsterInputType="Letter">
+  <Segments>
+<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>લી</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="25">લી</string>
+	        <string spawnId="45">મુ</string>
+	        <string spawnId="93">ભિ</string>
+			<string spawnId="94">લુ</string>
+			<string spawnId="36">મા</string>
+			<string spawnId="28">વિ</string>
+      	</Stones>
+	</Segment>
+
+    <Segment SegmentTime="10" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>લિ</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="22">વી</string>
+    		<string spawnId="4">યા</string>
+    		<string spawnId="76">લિ</string>
+    		<string spawnId="21">મુ</string>
+			<string spawnId="5">રા</string>
+			<string spawnId="73">લી</string>
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>યા</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string spawnId="19">યી</string>
+        	<string spawnId="18">યા</string>
+       	<string spawnId="69">રિ</string>
+			<string spawnId="72">લિ</string>
+
+			<string bonusScore="275" spawnId="84">BonusLetter</string>
+      	</Stones>
+    </Segment>
+
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>લુ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="58">રુ</string>
+	         <string spawnId="62">વા</string>
+				<string spawnId="66">લુ</string>
+			<string spawnId="67">મુ</string>
+				<string bonusScore="275" spawnId="26">BonusLetter</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>શુ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="90">લા</string>
+	        <string spawnId="55">લા</string>
+	        <string spawnId="96">મી</string>
+			<string spawnId="89">શી</string>
+			<string spawnId="54">શુ</string>
+			<string spawnId="95">શુ</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

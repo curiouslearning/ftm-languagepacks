@@ -1,0 +1,84 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="1" SegmentTime="11" StoneType="1" monsterInputType="LetterInWord">
+  <Segments>
+    <Segment SegmentTime="11" spawnIds="19,22,27">
+      
+	  <MonsterRequiredLetters>
+		<string>প</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>র</string>
+		<string>ম</string>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>অ</string>
+        <string>ম</string>
+        <string>প</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>অ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>প</string>
+		<string>র</string>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="18">ম</string>
+        <string spawnId="21">র</string>
+        <string spawnId="26">অ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="89,54,95">
+      
+	  <MonsterRequiredLetters>
+		<string>প</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>র</string>
+		<string>ম</string>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>ত</string>
+        <string>অ</string>
+        <string>প</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ম</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>য়</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string spawnId="90">ত</string>
+        <string spawnId="55">ট</string>
+        <string spawnId="96">ম</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="61,59,93,94">
+      
+	  <MonsterRequiredLetters>
+		<string>অ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ক</string>
+		<string>্</string>
+	  <string>ষ</string><string>ত</string></MonsterAllLetters>
+	  <Stones>
+        <string>প</string>
+        <string>ত</string>
+        <string>অ</string>
+		<string bonusScore="150">BonusLetter</string>
+      </Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

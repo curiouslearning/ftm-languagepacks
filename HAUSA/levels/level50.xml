@@ -1,0 +1,89 @@
+<XMLLevel CollectableMonster="" HideCallout="2" LettersGroup="4" SegmentTime="12" StoneType="1" monsterInputType="SoundWord">
+	<Segments>
+		<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+			
+			<MonsterRequiredLetters>
+				<string>r</string>
+				<string>u</string>
+				<string>b</string>
+			<string>a</string></MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string>o</string>
+				<string>r</string>
+				<string>u</string>
+				<string>b</string>
+				<string>a</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>r</string>
+			<string>u</string>
+			<string>b</string>
+		<string>a</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>t</string>
+			<string>r</string>
+			<string>u</string>
+			<string>b</string>
+			<string>a</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>r</string>
+			<string>u</string>
+			<string>b</string>
+		<string>a</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>k</string>
+			<string>r</string>
+			<string>u</string>
+			<string>b</string>
+			<string>a</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>r</string>
+			<string>u</string>
+			<string>b</string>
+		<string>a</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>k</string>
+			<string>r</string>
+			<string>u</string>       
+			<string>b</string>
+			<string>a</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>r</string>
+			<string>u</string>
+			<string>d</string>
+		<string>u</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>z</string>
+			<string>r</string>
+			<string>u</string>
+			<string>d</string>
+			<string>u</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

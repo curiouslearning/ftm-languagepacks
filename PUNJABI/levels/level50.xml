@@ -1,0 +1,89 @@
+<XMLLevel CollectableMonster="" HideCallout="2" LettersGroup="8" SegmentTime="12" StoneType="1" monsterInputType="SoundWord">
+	<Segments>
+		<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+			
+			<MonsterRequiredLetters>
+				<string>ਬ</string>
+				<string>ਗ</string>
+				<string>ੀ</string>
+			<string>ਚ</string><string>ਾ</string></MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string>ਬ</string>
+				<string>ਗ</string>
+				<string>ੀ</string>
+				<string>ਚ</string>
+				<string>ਾ</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>ਫ</string>
+			<string>ਿ</string>
+			<string>ਰ</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ਢ</string>
+			<string>ਅੰ</string>
+			<string>ਫ</string>
+			<string>ਿ</string>
+			<string>ਰ</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>ਤ</string>
+			<string>ੱ</string>
+			<string>ਕ</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ਢ</string>
+			<string>ਢ</string>
+			<string>ਤ</string>
+			<string>ੱ</string>
+			<string>ਕ</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>ਬ</string>
+			<string>ਗ</string>
+			<string>ੀ</string>
+		<string>ਚ</string><string>ਾ</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ਬ</string>
+			<string>ਗ</string>
+			<string>ੀ</string>
+			<string>ਚ</string>
+			<string>ਾ</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>ਪ</string>
+			<string>ਪ</string>
+			<string>ੀ</string>
+		<string>ਤ</string><string>ਾ</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ਪ</string>
+			<string>ਪ</string>
+			<string>ੀ</string>
+			<string>ਤ</string>
+			<string>ਾ</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

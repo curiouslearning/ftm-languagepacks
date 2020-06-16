@@ -1,0 +1,96 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="5" SegmentTime="12" StoneType="2" monsterInputType="Word">
+	<Segments>
+		<Segment SegmentTime="12" spawnIds="">
+			
+			<MonsterRequiredLetters>
+				<string>ধ</string>
+				<string>ু</string>
+				<string>র</string>
+			</MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string spawnId="58">ন</string>
+				<string spawnId="6">গ</string>
+				<string spawnId="62">ঔ</string>
+				<string spawnId="63">য</string>
+				<string spawnId="7">ধ</string>
+				<string spawnId="64">ু</string>
+				<string spawnId="93">র</string>
+				<string bonusScore="275" spawnId="94">BonusLetter</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ড</string>
+			<string>ু</string>
+		<string>ম</string><string>ু</string><string>র</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="93">ড</string>
+			<string spawnId="70">ু</string>
+			<string spawnId="60">ম</string>
+			<string spawnId="71">ু</string>
+			<string spawnId="94">র</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>শ</string>
+			<string>ু</string>
+			<string>ধ</string>
+		<string>ু</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="5">স</string>
+			<string spawnId="86">গ</string>
+			<string spawnId="23">ঔ</string>
+			<string spawnId="87">শ</string>
+			<string spawnId="4">ু</string>
+			<string spawnId="91">ধ</string>
+			<string spawnId="92">ু</string>
+			<string bonusScore="275" spawnId="20">BonusLetter</string>	
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>শ</string>
+			<string>ু</string>
+		<string>র</string><string>ু</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="93">স</string>
+			<string spawnId="70">শ</string>
+			<string spawnId="60">ু</string>
+			<string spawnId="71">র</string>
+			<string spawnId="94">ু</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="12" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ড</string>
+			<string>ু</string>
+			<string>ম</string>
+		<string>ু</string><string>র</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="63">ন</string>
+			<string spawnId="62">য</string>
+			<string spawnId="58">ড</string>
+			<string spawnId="79">ু</string>
+			<string spawnId="45">ম</string>
+			<string spawnId="64">ু</string>
+			<string spawnId="36">র</string>
+			<string bonusScore="275" spawnId="78">BonusLetter</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

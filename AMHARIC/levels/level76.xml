@@ -1,0 +1,91 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="6" SegmentTime="10" StoneType="1" monsterInputType="SoundWord">
+	<Segments>
+		<Segment SegmentTime="10" spawnIds="">
+			
+			<MonsterRequiredLetters>
+				<string>ጮ</string>
+				</MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string spawnId="81">ሸ</string>
+				<string spawnId="55">ጨ</string>
+				<string spawnId="90">ፐ</string>
+				<string spawnId="60">ቸ</string>
+				<string spawnId="89">ሸ</string>
+				<string spawnId="54">ኘ</string>
+				<string spawnId="84">ጮ</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
+		<MonsterRequiredLetters>
+			<string>ኚ</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ፈ</string>
+			<string>ቸ</string>
+			<string>ፈ</string>
+			<string>ቸ</string>
+			<string>ፐ</string>
+			<string>ፐ</string>
+			<string>ኚ</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
+		<MonsterRequiredLetters>
+			<string>ፑ</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ፐ</string>
+			<string>ፐ</string>
+			<string>ቸ</string>
+			<string>ቸ</string>
+			<string>ፈ</string>
+			<string>ጨ</string>
+			<string>ፑ</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
+		<MonsterRequiredLetters>
+			<string>ፊ</string>
+			<string>ኛ</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ፐ</string>
+			<string>ፐ</string>
+			<string>ቸ</string>
+			<string>ወ</string>       
+			<string>ፐ</string>
+			<string>ፊ</string>
+			<string>ኛ</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
+		<MonsterRequiredLetters>
+			<string>ፊ</string>
+			<string>ኛ</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ወ</string>
+			<string>ኘ</string>
+			<string>ኘ</string>
+			<string>ፈ</string>
+			<string>ኘ</string>
+			<string>ፊ</string>
+			<string>ኛ</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

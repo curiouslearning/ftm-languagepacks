@@ -1,0 +1,83 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="1" SegmentTime="11" StoneType="1" monsterInputType="LetterInWord">
+  <Segments>
+    <Segment SegmentTime="11" spawnIds="0,91,21">
+      
+	  <MonsterRequiredLetters>
+		<string>თ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ხ</string>
+		<string>ა</string>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>თ</string>
+        <string>ჰ</string>
+        <string>თ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="1,22,92">
+      
+	  <MonsterRequiredLetters>
+		<string>ც</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ა</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string>თ</string>
+        <string>ა</string>
+        <string>ც</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="45,79,27">
+      
+	  <MonsterRequiredLetters>
+		<string>თ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ხ</string>
+		<string>ა</string>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>ხ</string>
+        <string>ა</string>
+        <string>თ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="36,78,26">
+      
+	  <MonsterRequiredLetters>
+		<string>ჭ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ა</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string>ფ</string>
+        <string>ა</string>
+        <string>ჭ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="70,78,71,79">
+      
+	  <MonsterRequiredLetters>
+		<string>თ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ხ</string>
+		<string>ა</string>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>ც</string>
+        <string>ც</string>
+        <string>თ</string>
+		<string bonusScore="150">BonusLetter</string>
+      </Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

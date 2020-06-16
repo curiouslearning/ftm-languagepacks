@@ -1,0 +1,80 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="12" SegmentTime="11" StoneType="1" monsterInputType="Letter">
+  <Segments>
+
+<Segment SegmentTime="11" spawnIds="45,79,27">
+      
+	  <MonsterRequiredLetters>
+		<string>વે</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>વે</string>
+        <string>ષૃ</string>
+        <string>વે</string>
+      </Stones>
+    </Segment>
+
+
+      <Segment SegmentTime="11" spawnIds="1,22,92">
+      
+	  <MonsterRequiredLetters>
+		<string>રૂ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>રૂ</string>
+        <string>રે</string>
+        <string>લૈ</string>
+      </Stones>
+    </Segment>
+
+
+	<Segment SegmentTime="11" spawnIds="36,78,26">
+      
+	  <MonsterRequiredLetters>
+		<string>મૃ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>મૃ</string>
+        <string>ભૃ</string>
+        <string>વૃ</string>
+      </Stones>
+    </Segment>
+
+
+<Segment SegmentTime="11" spawnIds="70,78,71,79">
+      
+	  <MonsterRequiredLetters>
+		<string>શૈ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>મૈ</string>
+        <string>સૂ</string>
+        <string>શૈ</string>
+		<string bonusScore="150">BonusLetter</string>
+      </Stones>
+    </Segment>
+
+    <Segment SegmentTime="11" spawnIds="0,91,21">
+      
+	  <MonsterRequiredLetters>
+		<string>રૈ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>વૈ</string>
+        <string>રૈ</string>
+        <string>ષૃ</string>
+      </Stones>
+    </Segment>
+
+
+  </Segments>
+</XMLLevel>

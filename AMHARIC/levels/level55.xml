@@ -1,0 +1,101 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="5" SegmentTime="9" StoneType="1" monsterInputType="Letter">
+  <Segments>
+    <Segment SegmentTime="9" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>ቸ</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="20">ወ</string>
+    		<string spawnId="75">ሸ</string>
+			<string spawnId="15">ሸ</string>
+    		<string spawnId="23">ፐ</string>
+			<string spawnId="74">ሸ</string>
+			<string spawnId="14">ጨ</string>
+			<string spawnId="11">ፐ</string>
+			<string spawnId="12">ጨ</string>
+			<string spawnId="60">ቸ</string>
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="9" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ወ</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string spawnId="76">ቸ</string>
+        	<string spawnId="58">ፐ</string>
+        	<string spawnId="3">ሸ</string>
+			<string spawnId="70">ጨ</string>
+			<string spawnId="2">ጨ</string>
+			<string spawnId="62">ኘ</string>
+			<string spawnId="73">ወ</string>
+			<string spawnId="78">ፈ</string>
+			<string spawnId="71">ወ</string>
+			<string bonusScore="275" spawnId="79">BonusLetter</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="20,75,15,23,74,14,11,12,60">
+		
+      	<MonsterRequiredLetters>
+			<string>ፐ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string>ኘ</string>
+	        <string>ፈ</string>
+			<string>ወ</string>
+			<string>ሸ</string>
+			<string>ፐ</string>
+			<string>ጨ</string>
+			<string>ሸ</string>
+			<string>ጨ</string>
+			<string>ፐ</string>
+      	</Stones>
+	</Segment>
+	<Segment SegmentTime="9" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ወ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="76">ፈ</string>
+	        <string spawnId="58">ፈ</string>
+	        <string spawnId="3">ፐ</string>
+			<string spawnId="70">ወ</string>
+			<string spawnId="2">ጨ</string>
+			<string spawnId="62">ፈ</string>
+			<string spawnId="73">ፈ</string>
+			<string spawnId="78">ወ</string>
+			<string spawnId="71">ወ</string>
+			<string bonusScore="275" spawnId="79">BonusLetter</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="20,75,15,23,74,14,11,12,60">
+		
+      	<MonsterRequiredLetters>
+			<string>ወ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>ወ</string>
+	        <string>ኘ</string>
+	        <string>ኘ</string>
+			<string>ጨ</string>
+			<string>ፐ</string>
+			<string>ፈ</string>
+			<string>ፐ</string>
+			<string>ቸ</string>
+			<string>ወ</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

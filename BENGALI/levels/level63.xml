@@ -1,0 +1,94 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="5" SegmentTime="11" StoneType="1" monsterInputType="SoundWord">
+	<Segments>
+		<Segment SegmentTime="11" spawnIds="">
+			
+			<MonsterRequiredLetters>
+				<string>শ</string>
+				<string>ু</string>
+				<string>ধ</string>
+			<string>ু</string></MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string spawnId="72">য</string>
+				<string spawnId="81">স</string>
+				<string spawnId="8">শ</string>
+				<string spawnId="9">ু</string>
+				<string spawnId="69">ধ</string>
+				<string spawnId="84">ু</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			<string>শ</string>
+			<string>ু</string>
+			<string>র</string>
+		<string>ু</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ম</string>
+			<string>স</string>
+			<string>শ</string>
+			<string>ু</string>
+			<string>র</string>
+			<string>ু</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			<string>দ</string>
+			<string>ু</string>
+			<string>র</string>
+		<string>ু</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>য</string>
+			<string>ন</string>
+			<string>দ</string>
+			<string>ু</string>
+			<string>র</string>
+			<string>ু</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			<string>শ</string>
+			<string>ু</string>
+			<string>ধ</string>
+		<string>ু</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ঔ</string>
+			<string>ঔ</string>
+			<string>শ</string>      
+			<string>ু</string>
+			<string>ধ</string>
+			<string>ু</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			<string>দ</string>
+			<string>ু</string>
+			<string>র</string>
+		<string>ু</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ন</string>
+			<string>য</string>
+			<string>দ</string>
+			<string>ু</string>
+			<string>র</string>
+			<string>ু</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

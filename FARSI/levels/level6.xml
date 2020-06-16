@@ -1,0 +1,85 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="1" SegmentTime="11" StoneType="1" monsterInputType="LetterInWord">
+  <Segments>
+    <Segment SegmentTime="11" spawnIds="5,75,57">
+      
+	  <MonsterRequiredLetters>
+		<string>آ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ت</string>
+		<string>ش</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string>آ</string>
+		<string>ن</string>
+		<string>آ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="4,74,56">
+      
+	  <MonsterRequiredLetters>
+		<string>آ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ب</string>
+		<string>ی</string>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>گ</string>
+		<string>ن</string>
+		<string>آ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="89,8,95">
+      
+	  <MonsterRequiredLetters>
+		<string>آ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ه</string>
+		<string>ن</string>
+	  <string>گ</string></MonsterAllLetters>
+	  <Stones>
+        <string>ش</string>
+		<string>گ</string>
+		<string>آ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="90,9,96">
+      
+	  <MonsterRequiredLetters>
+		<string>آ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ژ</string>
+		<string>ی</string>
+	  <string>ر</string></MonsterAllLetters>
+	  <Stones>
+        <string>ش</string>
+		<string>ش</string>
+		<string>آ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="83,55,82,54">
+      
+	  <MonsterRequiredLetters>
+		<string>آ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ژ</string>
+		<string>ی</string>
+	  <string>ر</string></MonsterAllLetters>
+	  <Stones>
+        <string>آ</string>
+        <string>ی</string>
+        <string>آ</string>
+		<string bonusScore="150">BonusLetter</string>
+      </Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

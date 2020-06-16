@@ -1,0 +1,82 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="1" SegmentTime="11" StoneType="1" monsterInputType="LetterInWord">
+  <Segments>
+    <Segment SegmentTime="11" spawnIds="19,22,27">
+      
+	  <MonsterRequiredLetters>
+		<string>ხ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ა</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string>ჰ</string>
+        <string>ფ</string>
+        <string>ხ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ჰ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ა</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string spawnId="18">ა</string>
+        <string spawnId="21">ფ</string>
+        <string spawnId="26">ჰ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="89,54,95">
+      
+	  <MonsterRequiredLetters>
+		<string>ფ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ა</string>
+		<string>ფ</string>
+	  <string>ა</string></MonsterAllLetters>
+	  <Stones>
+        <string>ჭ</string>
+        <string>ა</string>
+        <string>ფ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ჰ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ა</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string spawnId="90">ა</string>
+        <string spawnId="55">ც</string>
+        <string spawnId="96">ჰ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="61,59,93,94">
+      
+	  <MonsterRequiredLetters>
+		<string>ფ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ა</string>
+		<string>ფ</string>
+	  <string>ა</string></MonsterAllLetters>
+	  <Stones>
+        <string>თ</string>
+        <string>ც</string>
+        <string>ფ</string>
+		<string bonusScore="150">BonusLetter</string>
+      </Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

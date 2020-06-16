@@ -1,0 +1,89 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="5" SegmentTime="11" StoneType="1" monsterInputType="SoundWord">
+	<Segments>
+		<Segment SegmentTime="11" spawnIds="">
+			
+			<MonsterRequiredLetters>
+				<string>ბ</string>
+				<string>უ</string>
+				</MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string spawnId="72">კ</string>
+				<string spawnId="81">კ</string>
+				<string spawnId="8">ძ</string>
+				<string spawnId="9">კ</string>
+				<string spawnId="69">ბ</string>
+				<string spawnId="84">უ</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			<string>ბ</string>
+			<string>უ</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ს</string>
+			<string>შ</string>
+			<string>შ</string>
+			<string>კ</string>
+			<string>ბ</string>
+			<string>უ</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			<string>ს</string>
+			<string>უ</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>კ</string>
+			<string>შ</string>
+			<string>კ</string>
+			<string>შ</string>
+			<string>ს</string>
+			<string>უ</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			<string>ბ</string>
+			<string>უ</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ძ</string>
+			<string>ს</string>
+			<string>კ</string>      
+			<string>კ</string>
+			<string>ბ</string>
+			<string>უ</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			<string>შ</string>
+			<string>უ</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ბ</string>
+			<string>ს</string>
+			<string>ძ</string>
+			<string>კ</string>
+			<string>შ</string>
+			<string>უ</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>
