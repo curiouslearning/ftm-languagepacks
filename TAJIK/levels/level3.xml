@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XMLLevel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	monsterInputType="Letter"
+	CollectableMonster=""
+	SegmentTime="11"
+	HideCallout="-1"
+	LettersGroup="1"
+	StoneType="1"
+>
+  <Segments>
+    <Segment spawnIds="6,7" SegmentTime="11">
+    	<!-- Puzzle One -->
+    	<MonsterRequiredLetters>
+    		<string>л</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string>л</string>
+    		<string>г</string>
+    	</Stones>
+	</Segment>
+	<Segment spawnIds="91,92" SegmentTime="11">
+		<!-- Puzzle Two -->
+		<MonsterRequiredLetters>
+			<string>г</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string>р</string>
+        	<string>г</string>
+      	</Stones>
+    </Segment>
+	<Segment spawnIds="8,9" SegmentTime="11">
+		<!-- Puzzle Three -->
+      	<MonsterRequiredLetters>
+			<string>р</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string>р</string>
+	        <string>н</string>
+      	</Stones>
+	</Segment>
+	<Segment spawnIds="93,94" SegmentTime="11">
+		<!-- Puzzle Four -->
+      	<MonsterRequiredLetters>
+			<string>ш</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>ш</string>
+	        <string>л</string>
+      	</Stones>
+    </Segment>
+	<Segment spawnIds="21,22,60" SegmentTime="11">
+		<!-- Puzzle Five -->
+      	<MonsterRequiredLetters>
+			<string>о</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>о</string>
+	        <string>г</string>
+			<string bonusScore="125">BonusLetter</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

@@ -1,0 +1,77 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="6" SegmentTime="11" StoneType="1" monsterInputType="Letter">
+  <Segments>
+    <Segment SegmentTime="11" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>ۆ</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="84">چ</string>
+    		<string spawnId="54">ۆ</string>
+    		<string spawnId="55">چ</string>
+			<string spawnId="81">ۆ</string>
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>پ</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string spawnId="82">گ</string>
+        	<string spawnId="8">پ</string>
+        	<string spawnId="83">چ</string>
+			<string spawnId="9">گ</string>
+      	</Stones>
+    </Segment>
+    <Segment SegmentTime="11" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>گ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="3">چ</string>
+	        <string spawnId="70">پ</string>
+	        <string spawnId="71">گ</string>
+			<string spawnId="2">گ</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>چ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="23">پ</string>
+	        <string spawnId="74">پ</string>
+	        <string spawnId="75">چ</string>
+			<string spawnId="20">پ</string>
+      	</Stones>
+	</Segment>
+
+	<Segment SegmentTime="11" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>گ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="89">ۆ</string>
+	        <string spawnId="96">ۆ</string>
+	        <string spawnId="95">گ</string>
+			<string spawnId="90">گ</string>
+	        <string bonusScore="125" spawnId="18">BonusLetter</string>
+			<string bonusScore="125" spawnId="19">BonusLetter</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

@@ -1,0 +1,70 @@
+<XMLLevel CollectableMonster="Fire" HideCallout="-1" LettersGroup="1" SegmentTime="11" StoneType="1" monsterInputType="Word">
+  <Segments>
+    <Segment SegmentTime="11" spawnIds="67,45,79">
+    	
+    	<MonsterRequiredLetters>
+    		<string>p</string>
+    	<string>a</string><string>nk</string></MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string>p</string>
+    		<string>a</string>
+    		<string>nk</string>
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="66,36,78">
+		
+		<MonsterRequiredLetters>
+			<string>ŋ</string>
+		<string>a</string><string>s</string></MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string>ŋ</string>
+        	<string>a</string>
+        	<string>s</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="18,21,26">
+		
+      	<MonsterRequiredLetters>
+			<string>f</string>
+	  	<string>a</string><string>n</string><string>n</string></MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string>f</string>
+	        <string>a</string>
+	        <string>n</string>
+      	<string spawnId="22">n</string></Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="19,22,27">
+		
+      	<MonsterRequiredLetters>
+			<string>a</string>
+	  	<string>m</string></MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>l</string>
+	        <string>a</string>
+	        <string>m</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="87,27,26,86">
+		
+      	<MonsterRequiredLetters>
+			<string>f</string>
+	  	<string>a</string><string>n</string><string>n</string></MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>f</string>
+	        <string>a</string>
+	        <string>n</string>
+			<string bonusScore="125">BonusLetter</string>
+      	<string spawnId="28">n</string></Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

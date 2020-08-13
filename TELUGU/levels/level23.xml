@@ -1,0 +1,74 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="7" SegmentTime="11" StoneType="1" monsterInputType="Letter">
+  <Segments>
+<Segment SegmentTime="11" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ణీ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="4">దీ</string>
+        <string spawnId="54">సీ</string>
+		<string spawnId="58">ణీ</string>
+      </Stones>
+    </Segment>
+
+	<Segment SegmentTime="11" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ఞి</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="8">జీ</string>
+        <string spawnId="9">ఞి</string>
+        <string spawnId="60">ణి</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="25,28,93,94">
+      
+	  <MonsterRequiredLetters>
+		<string>గా</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>ణా</string>
+        <string>గా</string>
+		<string>టు</string>
+		<string bonusScore="250">BonusLetter</string>
+      </Stones>
+    </Segment>
+
+<Segment SegmentTime="11" spawnIds="60,8,9">
+      
+	  <MonsterRequiredLetters>
+		<string>జీ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>హి</string>
+        <string>జీ</string>
+		<string>యీ</string>
+      </Stones>
+    </Segment>
+
+    <Segment SegmentTime="11" spawnIds="5,55,62">
+      
+	  <MonsterRequiredLetters>
+		<string>ణు</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>గి</string>
+		<string>ణు</string>
+        <string>ఞీ</string>
+      </Stones>
+    </Segment>
+
+  </Segments>
+</XMLLevel>

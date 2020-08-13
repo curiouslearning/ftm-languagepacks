@@ -1,0 +1,78 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="2" SegmentTime="13" StoneType="1" monsterInputType="SoundWord">
+	<Segments>
+		<Segment SegmentTime="13" spawnIds="21,60,22">
+			
+			<MonsterRequiredLetters>
+				<string>ə</string>
+				<string>t</string>
+				</MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string>r</string>
+				<string>ə</string>
+				<string>t</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="90,55,96">
+		
+		<MonsterRequiredLetters>
+			<string>l</string>
+			<string>ə</string>
+			<string>l</string>
+		<string>ə</string><string>k</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>l</string>
+			<string>ə</string>
+			<string>l</string>
+		<string spawnId="32">ə</string><string spawnId="28">k</string></Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="89,54,95">
+		
+		<MonsterRequiredLetters>
+			<string>k</string>
+			<string>ə</string>
+			<string>t</string>
+		<string>ə</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>k</string>
+			<string>ə</string>
+			<string>t</string>
+		<string spawnId="60">ə</string></Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="59,93,36">
+		
+		<MonsterRequiredLetters>
+			<string>k</string>
+			<string>ə</string>
+			<string>l</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>k</string>
+			<string>ə</string>
+			<string>l</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="13" spawnIds="61,94,45">
+		
+		<MonsterRequiredLetters>
+			<string>l</string>
+			<string>ə</string>
+			<string>k</string>
+		<string>ə</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>l</string>
+			<string>ə</string>
+			<string>k</string>
+		<string spawnId="32">ə</string></Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

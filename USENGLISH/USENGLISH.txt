@@ -1,0 +1,500 @@
+.:
+art
+charimg
+levels
+sounds
+USENGLISH.txt
+
+./art:
+feedbacks
+memg
+titles
+
+./art/feedbacks:
+Amazing Base.png
+Amazing_work_01.png
+Fantastic_01.png
+Fantastic Base.png
+FantasticWork_01.png
+Fantastic Work Base.png
+Great Base.png
+great_match (eng).png
+Great.png
+Well Done Base.png
+
+./art/memg:
+
+./art/titles:
+happy_we_are_friends (eng).png
+Lets_write_letters (eng).png
+new_friend (eng).png
+parents_progession_LETERS (eng).png
+parents_progession_titel (eng).png
+parents_progression_LETERS.png
+parents_progression_titel.png
+parents_progression_VOWELS (eng).png
+parents_progression_VOWELS.png
+parents_progression_WORDS (eng).png
+parents_progression_WORDS.png
+Selection_choose_your_monster 01 (eng).png
+Selection_choose_your_monster_01.png
+select_new_monster (eng).png
+Select_your_player (eng).png
+SEL_popup_AfraidTxt_v01 (eng).png
+SEL_popup_AngryText_v01 (eng).png
+SEL_popup_BoredText_v01 (eng).png
+SEL_popup_HungryText_v01.png
+SEL_popup_SadText_v01 (eng).png
+Splash_screen_v03_logo.png
+Treasure_feedback_01.png
+try_writing_this_letter (eng).png
+
+./charimg:
+
+./levels:
+level0.xml
+level100.xml
+level101.xml
+level102.xml
+level103.xml
+level104.xml
+level105.xml
+level106.xml
+level107.xml
+level108.xml
+level109.xml
+level10.xml
+level110.xml
+level111.xml
+level112.xml
+level113.xml
+level114.xml
+level115.xml
+level116.xml
+level117.xml
+level118.xml
+level119.xml
+level11.xml
+level120.xml
+level121.xml
+level122.xml
+level123.xml
+level124.xml
+level125.xml
+level126.xml
+level127.xml
+level128.xml
+level129.xml
+level12.xml
+level130.xml
+level131.xml
+level132.xml
+level133.xml
+level134.xml
+level135.xml
+level136.xml
+level137.xml
+level138.xml
+level139.xml
+level13.xml
+level140.xml
+level141.xml
+level142.xml
+level143.xml
+level144.xml
+level145.xml
+level146.xml
+level147.xml
+level148.xml
+level149.xml
+level14.xml
+level15.xml
+level16.xml
+level17.xml
+level18.xml
+level19.xml
+level1.xml
+level20.xml
+level21.xml
+level22.xml
+level23.xml
+level24.xml
+level25.xml
+level26.xml
+level27.xml
+level28.xml
+level29.xml
+level2.xml
+level30.xml
+level31.xml
+level32.xml
+level33.xml
+level34.xml
+level35.xml
+level36.xml
+level37.xml
+level38.xml
+level39.xml
+level3.xml
+level40.xml
+level41.xml
+level42.xml
+level43.xml
+level44.xml
+level45.xml
+level46.xml
+level47.xml
+level48.xml
+level49.xml
+level4.xml
+level50.xml
+level51.xml
+level52.xml
+level53.xml
+level54.xml
+level55.xml
+level56.xml
+level57.xml
+level58.xml
+level59.xml
+level5.xml
+level60.xml
+level61.xml
+level62.xml
+level63.xml
+level64.xml
+level65.xml
+level66.xml
+level67.xml
+level68.xml
+level69.xml
+level6.xml
+level70.xml
+level71.xml
+level72.xml
+level73.xml
+level74.xml
+level75.xml
+level76.xml
+level77.xml
+level78.xml
+level79.xml
+level7.xml
+level80.xml
+level81.xml
+level82.xml
+level83.xml
+level84.xml
+level85.xml
+level86.xml
+level87.xml
+level88.xml
+level89.xml
+level8.xml
+level90.xml
+level91.xml
+level92.xml
+level93.xml
+level94.xml
+level95.xml
+level96.xml
+level97.xml
+level98.xml
+level99.xml
+level9.xml
+
+./sounds:
+feedbacks
+letters
+other
+words
+
+./sounds/feedbacks:
+amazing.WAV
+amazing work.WAV
+fantastic1.wav
+fantastic2.wav
+fantastic3.wav
+fantastic4.wav
+fantastic5.wav
+fantastic6.wav
+fantastic answer.wav
+fantastic work 1.WAV
+fantastic work.WAV
+good answer.WAV
+good job.WAV
+good.wav
+good work.WAV
+great2.wav
+great3.wav
+great4.wav
+great match.wav
+great.wav
+well done 2.WAV
+well done 3.wav
+well done.wav
+
+./sounds/letters:
+ade.wav
+ake.wav
+ale.wav
+ame.wav
+am.WAV
+ane.wav
+an.WAV
+ape.wav
+ap.WAV
+at.WAV
+a.WAV
+bl.wav
+br.wav
+b.WAV
+ch.wav
+cl.wav
+cr.wav
+c.WAV
+d.WAV
+eak.wav
+ean.wav
+eat.wav
+ed.WAV
+eel.wav
+eep.wav
+eet.wav
+ee.wav
+eg.WAV
+en.WAV
+et.WAV
+e.WAV
+f 2.wav
+f2.wav
+f3.WAV
+fl.wav
+fr.wav
+f.WAV
+gl.wav
+gr.wav
+g.WAV
+h.WAV
+ice.wav
+ide.wav
+if.WAV
+ike.wav
+ine.wav
+in.WAV
+ipe.wav
+ip.WAV
+is.WAV
+ite.wav
+i.WAV
+j.WAV
+k.WAV
+l.WAV
+m.WAV
+n.WAV
+obe.wav
+ode.wav
+oke.wav
+ome.wav
+op.WAV
+ot.WAV
+o.WAV
+ox.WAV
+p 2.wav
+p3.wav
+pl.wav
+pr.wav
+p.WAV
+qu.WAV
+r.WAV
+shr.wav
+sh.wav
+sp.wav
+squ.wav
+str.wav
+st.wav
+s.WAV
+sw.wav
+t2.wav
+tr.wav
+t.WAV
+ub.WAV
+ue.wav
+ug.WAV
+ule.wav
+ume.wav
+une.wav
+un.WAV
+use.wav
+ute.wav
+ut.WAV
+u.WAV
+vowels-final.wav
+v.WAV
+wh.wav
+wr.wav
+w.WAV
+x.WAV
+y.WAV
+z.WAV
+
+./sounds/other:
+Bonus level.WAV
+bonus treasure.wav
+select your monster-old1.wav
+select your monster.wav
+Select your new monster.WAV
+Select your player.WAV
+watch me grow 2.wav
+watch me grow.wav
+we have a new friend.wav
+
+./sounds/words:
+ag.wav
+as.wav
+bat.wav
+blade.wav
+bleak.wav
+blue.wav
+box.WAV
+brake.wav
+bug 1.wav
+bug.WAV
+bun 1.wav
+bun.WAV
+bus.wav
+but.wav
+can1.WAV
+can.WAV
+cap1.WAV
+cap.WAV
+cat 1.wav
+cat.WAV
+chide.wav
+clean.wav
+club.wav
+clue.wav
+crane.wav
+cub 1.wav
+cub.WAV
+cup.wav
+cute.wav
+cut.WAV
+den.wav
+dog.wav
+egg.wav
+fab.WAV
+fan.wav
+fig.WAV
+fin1.WAV
+fin.WAV
+flute.wav
+fox 1.wav
+fox.wav
+frame.wav
+fume.wav
+gag.WAV
+geg.wav
+get.WAV
+globe.wav
+glue.wav
+grape.wav
+gun.wav
+hat.wav
+hen.WAV
+home.wav
+hop 1.wav
+hop.WAV
+hot.WAV
+hut.wav
+ib.wav
+if.wav
+ig.wav
+im.wav
+is.wav
+it.wav
+jet.wav
+jug.wav
+kid.wav
+lag.WAV
+leg.WAV
+lip 1.wav
+lip.WAV
+man.wav
+map 1.wav
+map.WAV
+mat1.WAV
+mat.WAV
+mop.WAV
+mule.wav
+mum.WAV
+muse.wav
+nag.WAV
+nap.WAV
+neg.wav
+net1.WAV
+net.WAV
+nip.WAV
+nut1.WAV
+nut.WAV
+pam.WAV
+pan1.WAV
+pane.wav
+pan.WAV
+pat.WAV
+pig.WAV
+pin 1.wav
+pin.WAV
+pit.WAV
+plane.wav
+pleat.wav
+pop.wav
+pot.WAV
+pox.wav
+price.wav
+prune.wav
+quip.wav
+quo.wav
+ram.WAV
+rat.wav
+ride.wav
+rode.wav
+rub.WAV
+rug1.WAV
+rug.WAV
+run.WAV
+rut.WAV
+sheep.wav
+shine.wav
+sip.WAV
+spike.wav
+spine.wav
+spoke.wav
+squeak.wav
+stale.wav
+strobe.wav
+strode.wav
+sun.wav
+sweet.wav
+swipe.wav
+tam.WAV
+tan.WAV
+tap.WAV
+ted.WAV
+ten.WAV
+top.WAV
+tree.wav
+tub1.WAV
+tub.WAV
+tug.WAV
+um.wav
+us.wav
+van.wav
+wed.WAV
+wet.wav
+wheat.wav
+wheel.wav
+whine.wav
+write.wav
+yum.wav
+zip.WAV

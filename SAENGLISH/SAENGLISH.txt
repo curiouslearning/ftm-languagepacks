@@ -1,0 +1,500 @@
+.:
+art
+charimg
+levels
+SAENGLISH.txt
+sounds
+
+./art:
+feedbacks
+memg
+titles
+
+./art/feedbacks:
+Amazing Base.png
+Amazing_work_01.png
+Fantastic_01.png
+Fantastic Base.png
+FantasticWork_01.png
+Fantastic Work Base.png
+Great Base.png
+great_match (eng).png
+Great.png
+Well Done Base.png
+
+./art/memg:
+
+./art/titles:
+happy_we_are_friends (eng).png
+Lets_write_letters (eng).png
+new_friend (eng).png
+parents_progession_LETERS (eng).png
+parents_progession_titel (eng).png
+parents_progression_LETERS.png
+parents_progression_titel.png
+parents_progression_VOWELS (eng).png
+parents_progression_VOWELS.png
+parents_progression_WORDS (eng).png
+parents_progression_WORDS.png
+Selection_choose_your_monster 01 (eng).png
+Selection_choose_your_monster_01.png
+select_new_monster (eng).png
+Select_your_player (eng).png
+SEL_popup_AfraidTxt_v01 (eng).png
+SEL_popup_AngryText_v01 (eng).png
+SEL_popup_BoredText_v01 (eng).png
+SEL_popup_HungryText_v01.png
+SEL_popup_SadText_v01 (eng).png
+Splash_screen_v03_logo.png
+Treasure_feedback_01.png
+try_writing_this_letter (eng).png
+
+./charimg:
+
+./levels:
+level0.xml
+level100.xml
+level101.xml
+level102.xml
+level103.xml
+level104.xml
+level105.xml
+level106.xml
+level107.xml
+level108.xml
+level109.xml
+level10.xml
+level110.xml
+level111.xml
+level112.xml
+level113.xml
+level114.xml
+level115.xml
+level116.xml
+level117.xml
+level118.xml
+level119.xml
+level11.xml
+level120.xml
+level121.xml
+level122.xml
+level123.xml
+level124.xml
+level125.xml
+level126.xml
+level127.xml
+level128.xml
+level129.xml
+level12.xml
+level130.xml
+level131.xml
+level132.xml
+level133.xml
+level134.xml
+level135.xml
+level136.xml
+level137.xml
+level138.xml
+level139.xml
+level13.xml
+level140.xml
+level141.xml
+level142.xml
+level143.xml
+level144.xml
+level145.xml
+level146.xml
+level147.xml
+level148.xml
+level149.xml
+level14.xml
+level15.xml
+level16.xml
+level17.xml
+level18.xml
+level19.xml
+level1.xml
+level20.xml
+level21.xml
+level22.xml
+level23.xml
+level24.xml
+level25.xml
+level26.xml
+level27.xml
+level28.xml
+level29.xml
+level2.xml
+level30.xml
+level31.xml
+level32.xml
+level33.xml
+level34.xml
+level35.xml
+level36.xml
+level37.xml
+level38.xml
+level39.xml
+level3.xml
+level40.xml
+level41.xml
+level42.xml
+level43.xml
+level44.xml
+level45.xml
+level46.xml
+level47.xml
+level48.xml
+level49.xml
+level4.xml
+level50.xml
+level51.xml
+level52.xml
+level53.xml
+level54.xml
+level55.xml
+level56.xml
+level57.xml
+level58.xml
+level59.xml
+level5.xml
+level60.xml
+level61.xml
+level62.xml
+level63.xml
+level64.xml
+level65.xml
+level66.xml
+level67.xml
+level68.xml
+level69.xml
+level6.xml
+level70.xml
+level71.xml
+level72.xml
+level73.xml
+level74.xml
+level75.xml
+level76.xml
+level77.xml
+level78.xml
+level79.xml
+level7.xml
+level80.xml
+level81.xml
+level82.xml
+level83.xml
+level84.xml
+level85.xml
+level86.xml
+level87.xml
+level88.xml
+level89.xml
+level8.xml
+level90.xml
+level91.xml
+level92.xml
+level93.xml
+level94.xml
+level95.xml
+level96.xml
+level97.xml
+level98.xml
+level99.xml
+level9.xml
+
+./sounds:
+feedbacks
+letters
+other
+words
+
+./sounds/feedbacks:
+amazing.WAV
+amazing work.WAV
+Are you Sure.wav
+Bonus Level.wav
+Bonus Treasure!!.wav
+Can you pet me.wav
+correct match.wav
+fantastic1.wav
+fantastic2.wav
+fantastic3.wav
+fantastic4.wav
+fantastic answer.wav
+fantastic.wav
+fantastic work.WAV
+feed the monster2.wav
+feed the monster.wav
+good1.wav
+good answer2.wav
+good answer3.wav
+good answer.WAV
+good job.WAV
+good.wav
+good work.WAV
+great1.wav
+great2.wav
+great3.wav
+great match.wav
+great.wav
+I_m afraid, can you keep me company.wav
+I_m bored, can we play together.wav
+I_m so angry, help me to calm down.wav
+I_m so happy we are friends.wav
+I_m so sad, can you make me happy.wav
+I_m very hungry, do you have something to eat.wav
+Lets write some letters.wav
+level lost.wav
+level won.wav
+monster evolve.wav
+playing together is so much fun.wav
+select your monster.wav
+select your new monster.wav
+select your player.wav
+Thank you, Now I feel better.wav
+Thank you, now I_m happy.wav
+Thank you, That was delicious.wav
+Try writing this letter.wav
+Watch me Grow!!.wav
+We have a new Friend!.wav
+well done2.wav
+well done 2.WAV
+well done 3.wav
+well done.wav
+
+./sounds/letters:
+ade.wav
+ake.wav
+ale.wav
+ame.wav
+am.WAV
+ane.wav
+an.WAV
+ape.wav
+ap.WAV
+at.WAV
+a.WAV
+bl.wav
+br.wav
+b.WAV
+ch.wav
+cl.wav
+cr.wav
+c.WAV
+d.WAV
+eak.wav
+ean.wav
+eat.wav
+ed.WAV
+eel.wav
+eep.wav
+eet.wav
+ee.wav
+eg.WAV
+en.WAV
+et.WAV
+e.WAV
+fl.wav
+fr.wav
+f.WAV
+gl2.wav
+gr.wav
+g.WAV
+h.WAV
+ice.wav
+ide.wav
+if.WAV
+ike.wav
+ine.wav
+in.WAV
+ipe.wav
+ip.WAV
+is.WAV
+ite.wav
+i.WAV
+j.WAV
+k.WAV
+l.WAV
+m.WAV
+n.WAV
+obe.wav
+ode.wav
+oke.wav
+ome.wav
+op.WAV
+ot.WAV
+o.WAV
+ox.WAV
+pl.wav
+pr.wav
+p.WAV
+q.wav
+r.WAV
+shr.wav
+sh.wav
+sp2.wav
+squ.wav
+str.wav
+st.wav
+s.WAV
+sw.wav
+tr.wav
+t.WAV
+ub.WAV
+ue.wav
+ug.WAV
+ule.wav
+ume.wav
+une.wav
+un.WAV
+use.wav
+ute.wav
+ut.WAV
+u.WAV
+v.WAV
+wh.wav
+wr.wav
+w.WAV
+x.WAV
+y.WAV
+z.WAV
+
+./sounds/other:
+amazing.wav
+amazing work.wav
+Are you Sure.wav
+Bonus level.WAV
+Bonus Treasure!!.wav
+Can you pet me.wav
+correct match.wav
+English Michael O_Sullivan(1)_01.wav
+fantastic2.wav
+fantastic3.wav
+fantastic4.wav
+fantastic answer.wav
+fantastic.wav
+fantastic work.wav
+feed the monster-1.wav
+feed the monster2.wav
+feed the monster.wav
+good answer2.wav
+good answer3.wav
+good answer.wav
+good job.wav
+good.wav
+good work.wav
+great2.wav
+great3.wav
+Great match.wav
+great.wav
+I_m afraid, can you keep me company.wav
+I_m bored, can we play together.wav
+I_m so angry, help me to calm down.wav
+I_m so happy we are friends.wav
+I_m so sad, can you make me happy.wav
+I_m very hungry, do you have something to eat.wav
+Lets write some letters.wav
+level lost.wav
+level won.wav
+monster evolve.wav
+playing together is so much fun.wav
+select your monster.wav
+Select your new monster.WAV
+Select your player.WAV
+Thank you, Now I feel better.wav
+Thank you, now I_m happy.wav
+Thank you, That was delicious.wav
+Try writing this letter.wav
+Watch me Grow!!.wav
+We have a new Friend!.wav
+well done2.wav
+well done.wav
+
+./sounds/words:
+blade.wav
+bleak.wav
+blue.wav
+brake.wav
+bug.wav
+bun.wav
+but.wav
+can.wav
+cap.wav
+cat.wav
+chide.wav
+clean.wav
+clue.wav
+crane.wav
+cub.wav
+cute.wav
+cut.wav
+den.wav
+fin.wav
+flute.wav
+fox.wav
+frame.wav
+fume.wav
+get.wav
+globe.wav
+glue.wav
+grape.wav
+gun.wav
+home.wav
+hop.wav
+hot.wav
+if.wav
+is.wav
+lip.wav
+map.wav
+mat.wav
+mule.wav
+muse.wav
+nap.wav
+net.wav
+nip.wav
+nut.wav
+pam.wav
+pane.wav
+pat.wav
+pin.wav
+plane.wav
+pleat.wav
+pop.wav
+pox.wav
+price.wav
+prune.wav
+ride.wav
+rode.wav
+rub.wav
+rug.wav
+run.wav
+rut.wav
+sheep.wav
+shine.wav
+sip.wav
+spike.wav
+spine.wav
+spoke.wav
+squeak.wav
+stale.wav
+strobe.wav
+strode.wav
+sweet.wav
+swipe.wav
+tam.wav
+tan.wav
+tap.wav
+ted.wav
+ten.wav
+top.wav
+tree.wav
+tub.wav
+tug.wav
+wed.wav
+wet.wav
+wheat.wav
+wheel.wav
+whine.wav
+write.wav
+zip.wav

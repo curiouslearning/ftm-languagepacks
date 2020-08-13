@@ -1,0 +1,76 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="6" SegmentTime="11" StoneType="1" monsterInputType="Letter">
+  <Segments>
+    <Segment SegmentTime="11" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>ಭಾ</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="84">ಹೀ</string>
+    		<string spawnId="54">ಭು</string>
+    		<string spawnId="55">ಭಾ</string>
+			<string spawnId="81">ಸು</string>
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ಸಿ</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string spawnId="82">ಝೀ</string>
+        	<string spawnId="8">ಸಿ</string>
+        	<string spawnId="83">ಠಾ</string>
+			<string spawnId="9">ಠಿ</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ಡೀ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="23">ಡೀ</string>
+	        <string spawnId="74">ವೀ</string>
+	        <string spawnId="75">ಠೀ</string>
+			<string spawnId="20">ಸು</string>
+      	</Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ಹು</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="3">ಸಾ</string>
+	        <string spawnId="70">ಠಾ</string>
+	        <string spawnId="71">ವಾ</string>
+			<string spawnId="2">ಹು</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ಧಾ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="89">ಧೀ</string>
+	        <string spawnId="96">ಸಾ</string>
+	        <string spawnId="95">ಛೀ</string>
+			<string spawnId="90">ಧಾ</string>
+	        <string bonusScore="125" spawnId="18">BonusLetter</string>
+			<string bonusScore="125" spawnId="19">BonusLetter</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

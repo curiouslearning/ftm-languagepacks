@@ -1,0 +1,83 @@
+<XMLLevel CollectableMonster="" HideCallout="4" LettersGroup="5" SegmentTime="11" StoneType="1" monsterInputType="Letter">
+  <Segments>
+
+<Segment SegmentTime="11" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ಚಿ</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string spawnId="76">ಫು</string>
+        	<string spawnId="71">ಶಾ</string>
+			<string spawnId="79">ಚಿ</string>
+			<string bonusScore="100" spawnId="70">BonusLetter</string>
+			<string bonusScore="100" spawnId="78">BonusLetter</string>
+      	</Stones>
+    </Segment>
+<Segment SegmentTime="11" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ಚೀ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="0">ಚೀ</string>
+	        <string spawnId="57">ಚಿ</string>
+	        <string spawnId="56">ಫಿ</string>
+			<string spawnId="1">ತೀ</string>
+
+      	</Stones>
+	</Segment>
+
+
+    <Segment SegmentTime="11" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>ಬು</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="89">ಬು</string>
+    		<string spawnId="80">ಗೀ</string>
+
+			<string spawnId="77">ಚೀ</string>
+    	</Stones>
+	</Segment>
+
+	<Segment SegmentTime="11" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ಗೀ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="76">ಚು</string>
+	        <string spawnId="73">ಬೀ</string>
+	        <string spawnId="7">ಗೀ</string>
+			<string spawnId="9">ಣಿ</string>
+
+
+      	</Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="5,4,78,79">
+		
+      	<MonsterRequiredLetters>
+			<string>ಬೀ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>ಶು</string>
+	        <string>ಪಿ</string>
+	        <string>ಬೀ</string>
+			<string>ಯಾ</string>
+      	</Stones>
+    </Segment>
+
+  </Segments>
+</XMLLevel>

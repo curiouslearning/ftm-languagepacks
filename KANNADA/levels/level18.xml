@@ -1,0 +1,77 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="6" SegmentTime="11" StoneType="1" monsterInputType="Letter">
+  <Segments>
+    <Segment SegmentTime="11" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>ಧೀ</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="84">ಸು</string>
+    		<string spawnId="54">ಹಿ</string>
+    		<string spawnId="55">ಝಾ</string>
+			<string spawnId="81">ಧೀ</string>
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ಡು</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string spawnId="82">ಸಿ</string>
+        	<string spawnId="8">ಡು</string>
+        	<string spawnId="83">ಛಾ</string>
+			<string spawnId="9">ಢೀ</string>
+      	</Stones>
+    </Segment>
+    <Segment SegmentTime="11" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ಧಿ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="3">ಢೀ</string>
+	        <string spawnId="70">ಟಿ</string>
+	        <string spawnId="71">ಭಾ</string>
+			<string spawnId="2">ಧಿ</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ಠಾ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="23">ಠೀ</string>
+	        <string spawnId="74">ಢೀ</string>
+	        <string spawnId="75">ಠಾ</string>
+			<string spawnId="20">ಖಾ</string>
+      	</Stones>
+	</Segment>
+
+	<Segment SegmentTime="11" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ಛಿ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="89">ಧಾ</string>
+	        <string spawnId="96">ಢು</string>
+	        <string spawnId="95">ಸೀ</string>
+			<string spawnId="90">ಛಿ</string>
+	        <string bonusScore="125" spawnId="18">BonusLetter</string>
+			<string bonusScore="125" spawnId="19">BonusLetter</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

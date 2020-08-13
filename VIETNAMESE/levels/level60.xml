@@ -1,0 +1,86 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="5" SegmentTime="8" StoneType="2" monsterInputType="LetterInWord">
+  <Segments>
+    <Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>n</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ú</string>
+		<string>p</string>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="15">c</string>
+        <string spawnId="74">th</string>
+        <string spawnId="14">kh</string>
+		<string spawnId="75">n</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>n</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>u</string>
+	  <string>n</string><string>g</string></MonsterAllLetters>
+	  <Stones>
+        <string spawnId="7">g</string>
+        <string spawnId="77">g</string>
+        <string spawnId="6">r</string>
+		<string spawnId="80">n</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>r</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ú</string>
+		<string>c</string>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="61">c</string>
+        <string spawnId="8">g</string>
+        <string spawnId="9">u</string>
+		<string spawnId="59">r</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>gi</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+	  <string>ọ</string><string>t</string></MonsterAllLetters>
+	  <Stones>
+        <string spawnId="95">gi</string>
+        <string spawnId="18">r</string>
+        <string spawnId="96">kh</string>
+		<string spawnId="19">gi</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>c</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ụ</string>
+		<string>m</string>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="29">g</string>
+        <string spawnId="8">c</string>
+        <string spawnId="24">th</string>
+		<string spawnId="9">c</string>
+      </Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

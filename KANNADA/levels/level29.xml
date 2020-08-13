@@ -1,0 +1,87 @@
+<XMLLevel CollectableMonster="Larva" HideCallout="-1" LettersGroup="8" SegmentTime="11" StoneType="1" monsterInputType="Letter">
+  <Segments>
+
+<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ಘೂ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="25">ನೇ</string>
+	        <string spawnId="45">ಘೂ</string>
+	        <string spawnId="93">ಘೂ</string>
+			<string spawnId="94">ಘೈ</string>
+			<string spawnId="36">ಕೇ</string>
+			<string spawnId="28">ಮೃ</string>
+      	</Stones>
+	</Segment>
+
+
+    <Segment SegmentTime="10" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>ನೃ</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="22">ನೃ</string>
+    		<string spawnId="4">ಕೈ</string>
+    		<string spawnId="76">ನೃ</string>
+    		<string spawnId="21">ನೃ</string>
+			<string spawnId="5">ಘೃ</string>
+			<string spawnId="73">ನೆ</string>
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ನೈ</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string spawnId="19">ನೃ</string>
+        	<string spawnId="18">ನೈ</string>
+       	<string spawnId="69">ಮೂ</string>
+			<string spawnId="72">ಮೂ</string>
+
+			<string bonusScore="275" spawnId="84">BonusLetter</string>
+      	</Stones>
+    </Segment>
+
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ಮೂ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="58">ಕೇ</string>
+	         <string spawnId="62">ಕೂ</string>
+				<string spawnId="66">ಮೂ</string>
+			<string spawnId="67">ಮೈ</string>
+				<string bonusScore="275" spawnId="26">BonusLetter</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ಮೇ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="90">ನೃ</string>
+	        <string spawnId="55">ನೂ</string>
+	        <string spawnId="96">ಘೆ</string>
+			<string spawnId="89">ಕೂ</string>
+			<string spawnId="54">ಘೈ</string>
+			<string spawnId="95">ಮೇ</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

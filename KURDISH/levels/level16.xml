@@ -1,0 +1,83 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="5" SegmentTime="11" StoneType="1" monsterInputType="Letter">
+  <Segments>
+
+<Segment SegmentTime="11" spawnIds="">
+
+		<MonsterRequiredLetters>
+			<string>پ</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string spawnId="76">پ</string>
+        	<string spawnId="71">ۆ</string>
+			<string spawnId="79">پ</string>
+			<string bonusScore="100" spawnId="70">BonusLetter</string>
+			<string bonusScore="100" spawnId="78">BonusLetter</string>
+      	</Stones>
+    </Segment>
+<Segment SegmentTime="11" spawnIds="">
+
+      	<MonsterRequiredLetters>
+			<string>گ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="0">گ</string>
+	        <string spawnId="57">گ</string>
+	        <string spawnId="56">ۆ</string>
+			<string spawnId="1">چ</string>
+
+      	</Stones>
+	</Segment>
+
+
+    <Segment SegmentTime="11" spawnIds="">
+
+    	<MonsterRequiredLetters>
+    		<string>چ</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="89">چ</string>
+    		<string spawnId="80">ۆ</string>
+
+			<string spawnId="77">ۆ</string>
+    	</Stones>
+	</Segment>
+
+	<Segment SegmentTime="11" spawnIds="">
+
+      	<MonsterRequiredLetters>
+			<string>ۆ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="76">ۆ</string>
+	        <string spawnId="73">چ</string>
+	        <string spawnId="7">ۆ</string>
+			<string spawnId="9">گ</string>
+
+
+      	</Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="5,4,78,79">
+
+      	<MonsterRequiredLetters>
+			<string>ۆ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>گ</string>
+	        <string>ۆ</string>
+	        <string>ۆ</string>
+			<string>چ</string>
+      	</Stones>
+    </Segment>
+
+  </Segments>
+</XMLLevel>

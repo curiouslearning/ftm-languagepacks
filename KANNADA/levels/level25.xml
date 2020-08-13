@@ -1,0 +1,74 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="7" SegmentTime="11" StoneType="1" monsterInputType="Letter">
+  <Segments>
+<Segment SegmentTime="11" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ಞು</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="4">ಳೀ</string>
+        <string spawnId="54">ಷಿ</string>
+		<string spawnId="58">ಞು</string>
+      </Stones>
+    </Segment>
+
+	<Segment SegmentTime="11" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ಲು</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="8">ಲು</string>
+        <string spawnId="9">ಲು</string>
+        <string spawnId="60">ಱಾ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="25,28,93,94">
+      
+	  <MonsterRequiredLetters>
+		<string>ಲೀ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>ಲಿ</string>
+        <string>ಲೀ</string>
+		<string>ಳಿ</string>
+		<string bonusScore="250">BonusLetter</string>
+      </Stones>
+    </Segment>
+
+<Segment SegmentTime="11" spawnIds="60,8,9">
+      
+	  <MonsterRequiredLetters>
+		<string>ಮಾ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>ಷಿ</string>
+        <string>ಮಾ</string>
+		<string>ಲೀ</string>
+      </Stones>
+    </Segment>
+
+    <Segment SegmentTime="11" spawnIds="5,55,62">
+      
+	  <MonsterRequiredLetters>
+		<string>ಮಿ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>ಳಾ</string>
+		<string>ಮಿ</string>
+        <string>ಷು</string>
+      </Stones>
+    </Segment>
+
+  </Segments>
+</XMLLevel>

@@ -1,0 +1,84 @@
+<XMLLevel CollectableMonster="" HideCallout="5" LettersGroup="3" SegmentTime="10" StoneType="1" monsterInputType="SoundLetter">
+  <Segments>
+    <Segment SegmentTime="10" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>к</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="69">ц</string>
+    		<string spawnId="9">к</string>
+			<string spawnId="81">п</string>
+			<string spawnId="72">к</string>
+			<string spawnId="8">ц</string>
+			<string spawnId="84">к</string>
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="69,9,81,72,8,84">
+		
+		<MonsterRequiredLetters>
+			<string>ц</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string>і</string>
+        	<string>ц</string>
+			<string>ц</string>
+        	<string>к</string>
+			<string>і</string>
+			<string>ц</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>і</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="89">і</string>
+	        <string spawnId="95">і</string>
+			<string spawnId="55">ї</string>
+	        <string spawnId="54">ц</string>
+			<string spawnId="96">і</string>
+			<string spawnId="90">і</string>
+      	</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="89,95,55,54,96,90">
+		
+      	<MonsterRequiredLetters>
+			<string>п</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>і</string>
+	        <string>і</string>
+			<string>і</string>
+	        <string>к</string>
+			<string>к</string>
+			<string>п</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>п</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="59">п</string>
+	        <string spawnId="6">ї</string>
+	        <string spawnId="94">п</string>
+			<string spawnId="93">ї</string>
+			<string spawnId="61">і</string>
+			<string spawnId="7">п</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

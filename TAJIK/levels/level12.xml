@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XMLLevel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+	monsterInputType="Word"
+	CollectableMonster="Hypnosis"
+	SegmentTime="13"
+	HideCallout="-1"
+	LettersGroup="2"
+	StoneType="1"
+>
+	<Segments>
+		<Segment spawnIds="" SegmentTime="13">
+			<!-- Puzzle One -->
+			<MonsterRequiredLetters>
+				<string>с</string>
+				<string>а</string>
+			
+			</MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string spawnId="77">а</string>
+				<string spawnId="83">з</string>
+				<string spawnId="80">с</string>
+				<string spawnId="82" bonusScore="175" >BonusLetter</string>
+			</Stones>
+    </Segment>
+	<Segment spawnIds="" SegmentTime="13">
+		<!-- Puzzle Two -->
+		<MonsterRequiredLetters>
+			<string>з</string>
+			<string>а</string>
+	
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="77">з</string>
+			<string spawnId="83">а</string>
+			<string spawnId="80">н</string>
+					</Stones>
+    </Segment>
+	<Segment spawnIds="" SegmentTime="13">
+		<!-- Puzzle Three -->
+		<MonsterRequiredLetters>
+			<string>в</string>
+			<string>а</string>
+			
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="94">к</string>
+			<string spawnId="59">а</string>
+			<string spawnId="93">в</string>
+			<string spawnId="61" bonusScore="175" >BonusLetter</string>
+		</Stones>
+    </Segment>
+	<Segment spawnIds="" SegmentTime="13">
+		<!-- Puzzle Four -->
+		<MonsterRequiredLetters>
+			<string>д</string>
+			<string>а</string>
+		
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="94">а</string>
+			<string spawnId="59">в</string>
+			<string spawnId="93">д</string>
+			<string spawnId="61">MagnetLetter</string>
+		</Stones>
+	</Segment>
+	<Segment spawnIds="" SegmentTime="13">
+		<!-- Puzzle Five -->
+		<MonsterRequiredLetters>
+			<string>к</string>
+			<string>а</string>
+			
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="55">в</string>
+			<string spawnId="60">к</string>
+			<string spawnId="82">а</string>
+			<string spawnId="83">MagnetLetter</string>
+			<string spawnId="54" bonusScore="175" >BonusLetter</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

@@ -1,0 +1,84 @@
+<XMLLevel CollectableMonster="" HideCallout="4" LettersGroup="8" SegmentTime="11" StoneType="1" monsterInputType="Letter">
+  <Segments>
+  	<Segment SegmentTime="10" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ఢా</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string spawnId="19">షీ</string>
+        	<string spawnId="18">ఢా</string>
+       	<string spawnId="69">ఛీ</string>
+			<string spawnId="72">ఝీ</string>
+
+			<string bonusScore="275" spawnId="84">BonusLetter</string>
+      	</Stones>
+    </Segment>
+    <Segment SegmentTime="10" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>వు</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="22">షి</string>
+    		<string spawnId="4">ఠా</string>
+    		<string spawnId="76">వు</string>
+    		<string spawnId="21">డీ</string>
+			<string spawnId="5">ఝు</string>
+			<string spawnId="73">ఝీ</string>
+    	</Stones>
+	</Segment>
+
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>షీ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="25">డు</string>
+	        <string spawnId="45">ఝి</string>
+	        <string spawnId="93">షీ</string>
+			<string spawnId="94">ఝు</string>
+			<string spawnId="36">డా</string>
+			<string spawnId="28">ఝి</string>
+      	</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>క్షు</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="58">షి</string>
+	         <string spawnId="62">డు</string>
+				<string spawnId="66">క్షు</string>
+			<string spawnId="67">ఠా</string>
+				<string bonusScore="275" spawnId="26">BonusLetter</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ఛు</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="90">ఛు</string>
+	        <string spawnId="55">డి</string>
+	        <string spawnId="96">డు</string>
+			<string spawnId="89">ఝా</string>
+			<string spawnId="54">షా</string>
+			<string spawnId="95">క్షి</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

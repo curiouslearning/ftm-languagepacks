@@ -1,0 +1,97 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="14" SegmentTime="11" StoneType="1" monsterInputType="Letter">
+  <Segments>
+    <Segment SegmentTime="10" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>జై</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="87">జై</string>
+			<string spawnId="78">జో</string>
+    		<string spawnId="64">ణో</string>
+			<string spawnId="60">ణొ</string>
+			<string spawnId="36">సే</string>
+			<string spawnId="79">ణై</string>
+			<string spawnId="86">ధో</string>
+
+			<string spawnId="45">ణొ</string>
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>యొ</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string spawnId="18">యొ</string>
+			<string spawnId="19">దో</string>
+			<string spawnId="36">ణో</string>
+			<string spawnId="45">సై</string>
+			<string spawnId="57">ధై</string>
+			<string spawnId="56">సో</string>
+			<string spawnId="8">Shield</string>
+			<string bonusScore="275" spawnId="9">BonusLetter</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>సై</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="10">దొ</string>
+	        <string spawnId="61">ఖొ</string>
+			<string spawnId="71">జే</string>
+
+			<string spawnId="96">గొ</string>
+			<string spawnId="13">ఖై</string>
+			<string spawnId="95">సై</string>
+			<string spawnId="55">సొ</string>
+			<string spawnId="70">యొ</string>
+      	</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>గై</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="20">సో</string>
+			<string spawnId="23">గై</string>
+			<string spawnId="54">ధో</string>
+			<string spawnId="55">హొ</string>
+			<string spawnId="58">ఖో</string>
+
+			<string spawnId="21">Shield</string>
+			<string bonusScore="275" spawnId="22">BonusLetter</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="87,78,64,60,36,79,86,63,45">
+		
+      	<MonsterRequiredLetters>
+			<string>హై</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>దై</string>
+			<string>గే</string>
+			<string>ఖో</string>
+			<string>హై</string>
+			<string>దే</string>
+			<string>ణే</string>
+			<string>ధో</string>
+			<string>దై</string>
+			<string>దొ</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

@@ -1,0 +1,65 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="2" SegmentTime="11" StoneType="1" monsterInputType="Letter">
+  <Segments>
+    <Segment SegmentTime="11" spawnIds="6,7">
+    	
+    	<MonsterRequiredLetters>
+    		<string>ಛ</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string>ಛ</string>
+    		<string>ಠ</string>
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="91,92">
+		
+		<MonsterRequiredLetters>
+			<string>ಞ</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string>ಱ</string>
+        	<string>ಞ</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="8,9">
+		
+      	<MonsterRequiredLetters>
+			<string>ಝ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string>ಝ</string>
+	        <string>ಮ</string>
+      	</Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="93,94">
+		
+      	<MonsterRequiredLetters>
+			<string>ಠ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>ಠ</string>
+	        <string>ಠ</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="21,22,60">
+		
+      	<MonsterRequiredLetters>
+			<string>ವ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>ವ</string>
+	        <string>ಛ</string>
+			<string bonusScore="125">BonusLetter</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

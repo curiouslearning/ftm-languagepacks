@@ -1,0 +1,95 @@
+<XMLLevel CollectableMonster="Ice" HideCallout="-1" LettersGroup="2" SegmentTime="11" StoneType="1" monsterInputType="LetterInWord">
+  <Segments>
+    <Segment SegmentTime="11" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>н</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>е</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string spawnId="67">е</string>
+        <string spawnId="66">є</string>
+        <string spawnId="21">є</string>
+		<string spawnId="22">є</string>
+		<string spawnId="91">є</string>
+        <string spawnId="92">н</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>н</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>е</string>
+		<string>р</string>
+	  <string>в</string></MonsterAllLetters>
+	  <Stones>
+        <string spawnId="19">ш</string>
+        <string spawnId="18">н</string>
+        <string spawnId="11">е</string>
+		<string spawnId="71">в</string>
+		<string spawnId="70">є</string>
+        <string spawnId="12">н</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="59,61,93,94,45,36">
+      
+	  <MonsterRequiredLetters>
+		<string>є</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string>в</string>
+        <string>е</string>
+        <string>є</string>
+		<string>р</string>
+		<string>е</string>
+        <string>є</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="59,61,93,94,45,36">
+      
+	  <MonsterRequiredLetters>
+		<string>є</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string>р</string>
+        <string>ш</string>
+        <string>є</string>
+		<string>е</string>
+		<string>р</string>
+		<string>є</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="60,82,83,54,55,70,71">
+      
+	  <MonsterRequiredLetters>
+		<string>р</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>в</string>
+		<string>е</string>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>ш</string>
+        <string>ш</string>
+        <string>в</string>
+		<string>н</string>
+		<string>є</string>
+		<string>р</string>
+		<string bonusScore="250">BonusLetter</string>
+      </Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>
