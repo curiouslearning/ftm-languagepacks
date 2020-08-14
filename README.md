@@ -4,9 +4,8 @@ Language packs for Feed the Monster localizations
 # Usage
 Used with the Feed the Monster Core, which contains all language-independent data for Feed the Monster, found here: https://github.com/curiouslearning/FeedTheMonster/tree/newCore
 
-
 # Creating a New Language Pack
-Use the FTMdefault directory as a template for your language pack directory.
+Use the FTMdefault directory as a template for your language pack directory. Configure the settings.json file as needed, and replace the image and sound assets from the subfolders with the appropriate
 
 ## settings.json
 The settings.json file is used to define settings for the language, as follows:
@@ -17,25 +16,22 @@ field | usage
 "VersionNumber" (int) | the Android version number of the game
 "ImageBasedRendering" (bool) | whether the language uses images of each character instead of Unity's default text rendering
 "NumLevels" (int) | the number of levels in the game, usually 77 or 154
-"HasTracingGame" | whether to include the letter-tracing game, which is based on the latin alphabet characters
+"HasTracingGame" (bool) | whether to include the letter-tracing game, which is based on the latin alphabet characters
 
 ## Language Pack Structure
 subfolder | contents
 --------- | --------
 /charimg | contains the character images, if a image-based rendering system is used
 /levels | contains the level xml files
-/sounds/ |
 /sounds/letters | contains audio files for each character taught in the game
 /sounds/words | contains audio files for each word taught in the game
 /sounds/feedbacks | contains positive feedback audio
 /sounds/other | contains instruction audio
-/art/ |
 /art/feedbacks | contains gold positive feedback text images
 /art/titles |  contains blue ui text images
 /art/memg | contains the icon, word, and audio assets for the memory game
 
 ## Filenames
-The asset files in each subfolder must have the following names:
 
 ### sounds/letters
 The audio files in this folder should be named according to how characters are referenced in the level xml files, i.e. 'a.wav' or '1.wav'
@@ -43,15 +39,15 @@ The audio files in this folder should be named according to how characters are r
 ### sounds/letters
 The audio files in this folder should be named according to how words are referenced in the level xml files, i.e. 'cat.wav'
 
-
 ### sounds/feedbacks
+The asset files in this folder must have the following names:
 * amazing work.wav
 * fantastic work.wav
 * fantastic1.wav
 * great1.wav
 
-
 ### sounds/other
+The asset files in this folder must have the following names:
 * are_you_sure.wav
 * bonus_treasure.wav
 * im_angry.wav
@@ -69,6 +65,7 @@ The audio files in this folder should be named according to how words are refere
 * watch_grow.wav
 
 ### /art/feedbacks
+The asset files in this folder must have the following names:
 * 2_txt_fantastic_glow.png
 * 2_txt_fantastic_shimmer_sheet.png
 * 3_txt_fantastic_work_glow.png
@@ -84,6 +81,7 @@ The audio files in this folder should be named according to how words are refere
 
 
 ### /art/titles
+The asset files in this folder must have the following names:
 * are_you_sure.png
 * lets_write_some_letters.png
 * parents_progression_LETERS.png
@@ -99,6 +97,9 @@ The audio files in this folder should be named according to how words are refere
 * Treasure_feedback_01.png
 
 ### /art/memg
+The memory game word assets come in sets of three memg_x_x_a.jpg (an image of the text of the word), memg_x_x_b.jpg (a picture of what the word represents), and memg_x_x_c.wav (the pronunciation of the word).
+
+The asset files in this folder must have the following names:
 * memg_2_1_a.jpg
 * memg_2_1_b.jpg
 * memg_2_1_c.WAV
