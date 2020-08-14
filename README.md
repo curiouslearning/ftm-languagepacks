@@ -20,4 +20,36 @@ subfolder | contents
 /art/memg | contains the icon, word, and audio assets for the memory game
 
 # filenames
-*will soon include specific filename needs*
+The asset files in each subfolder must have the following names:
+
+### sounds/other
+* are_you_sure.wav
+* bonus_treasure.wav
+* im_angry.wav
+* im_bored.wav
+* im_sad.wav
+* lets_write_letters.wav
+* new_friend.wav
+* pet_me.wav
+* playing_together.wav
+* select_monster.wav
+* select_player.wav
+* thanks_better.wav
+* thanks_happy.wav
+* try_letter.wav
+* watch_grow.wav
+
+### /art/titles
+* are_you_sure.png
+* lets_write_some_letters.png
+* parents_progression_LETERS.png
+* parents_progression_VOWELS.png
+* parents_progression_WORDS.png
+* SEL_popup_AngryText_v01.png
+* SEL_popup_BoredText_v01.png
+* SEL_popup_SadText_v01.png
+* pet_me.png
+* select_your_player.png
+* Selection_choose_your_monster 01.png
+* Splash_screen_v03_logo.png
+* Treasure_feedback_01.png
