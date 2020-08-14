@@ -8,6 +8,17 @@ Used with the Feed the Monster Core, which contains all language-independent dat
 # Creating a New Language Pack
 Use the FTMdefault directory as a template for your language pack directory.
 
+## settings.json
+The settings.json file is used to define settings for the language, as follows:
+field | usage
+------ | ------
+"LanguageName" (string) | the name of the language
+"ApplicationName" (string) | the name of the game, i.e. "Feed the Monster", in the language
+"VersionNumber" (int) | the Android version number of the game
+"ImageBasedRendering" (bool) | whether the language uses images of each character instead of Unity's default text rendering
+"NumLevels" (int) | the number of levels in the game, usually 77 or 154
+"HasTracingGame" | whether to include the letter-tracing game, which is based on the latin alphabet characters
+
 ## Language Pack Structure
 subfolder | contents
 --------- | --------
@@ -25,6 +36,20 @@ subfolder | contents
 
 ## Filenames
 The asset files in each subfolder must have the following names:
+
+### sounds/letters
+The audio files in this folder should be named according to how characters are referenced in the level xml files, i.e. 'a.wav' or '1.wav'
+
+### sounds/letters
+The audio files in this folder should be named according to how words are referenced in the level xml files, i.e. 'cat.wav'
+
+
+### sounds/feedbacks
+* amazing work.wav
+* fantastic work.wav
+* fantastic1.wav
+* great1.wav
+
 
 ### sounds/other
 * are_you_sure.wav
