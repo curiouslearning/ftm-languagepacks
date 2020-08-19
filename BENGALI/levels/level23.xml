@@ -1,0 +1,90 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="2" SegmentTime="13" StoneType="1" monsterInputType="Word">
+	<Segments>
+		<Segment SegmentTime="13" spawnIds="">
+			
+			<MonsterRequiredLetters>
+				<string>আ</string>
+				<string>ড়</string>
+				<string>া</string>
+			<string>ল</string></MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string spawnId="74">আ</string>
+				<string spawnId="56">ড়</string>
+				<string spawnId="57">া</string>
+				<string spawnId="75">ল</string>
+				<string bonusScore="275" spawnId="60">BonusLetter</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ল</string>
+			<string>া</string>
+			<string>ল</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="74">র</string>
+			<string spawnId="56">ল</string>
+			<string spawnId="57">া</string>
+			<string spawnId="75">ল</string>
+			<string spawnId="60">MagnetLetter</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ল</string>
+			<string>া</string>
+			<string>ঙ</string>
+		<string>ল</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="75">ল</string>
+			<string spawnId="57">া</string>
+			<string spawnId="56">ঙ</string>
+			<string spawnId="74">ল</string>
+			<string bonusScore="275" spawnId="60">BonusLetter</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ড</string>
+			<string>া</string>
+			<string>ঙ</string>
+		<string>া</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="75">ড</string>
+			<string spawnId="57">া</string>
+			<string spawnId="56">ঙ</string>
+			<string spawnId="74">া</string>
+			<string spawnId="60">MagnetLetter</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="13" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ল</string>
+			<string>া</string>
+			<string>ঙ</string>
+		<string>ল</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="69">ল</string>
+			<string spawnId="82">া</string>
+			<string spawnId="83">ঙ</string>
+			<string spawnId="72">ল</string>
+			<string spawnId="54">MagnetLetter</string>
+			<string bonusScore="275" spawnId="55">BonusLetter</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

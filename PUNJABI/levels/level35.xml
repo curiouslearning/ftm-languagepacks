@@ -1,0 +1,81 @@
+<XMLLevel CollectableMonster="" HideCallout="4" LettersGroup="6" SegmentTime="13" StoneType="2" monsterInputType="Word">
+	<Segments>
+		<Segment SegmentTime="13" spawnIds="9,96,8,95">
+			
+			<MonsterRequiredLetters>
+				<string>ਢ</string>
+				<string>ਿ</string>
+			<string>ੱ</string><string>ਡ</string></MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string>ਢ</string>
+				<string>ਿ</string>
+				<string>ੱ</string>
+				<string>ਡ</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="70,71,56,57">
+		
+		<MonsterRequiredLetters>
+			<string>ਖ</string>
+			<string>ਾ</string>
+		<string>ਣ</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ਅੰ</string>
+			<string>ਖ</string>
+			<string>ਾ</string>
+			<string>ਣ</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ਖ</string>
+			<string>ਾ</string>
+		<string>ਣ</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="82">ਅੰ</string>
+			<string spawnId="55">ਖ</string>
+			<string spawnId="83">ਾ</string>
+			<string spawnId="54">ਣ</string>
+			<string bonusScore="275" spawnId="60">BonusLetter</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ਢ</string>
+			<string>ਿ</string>
+			<string>ੱ</string>
+		<string>ਡ</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="36">ਢ</string>
+			<string spawnId="79">ਿ</string>
+			<string spawnId="45">ੱ</string>
+			<string spawnId="78">MagnetLetter</string>
+		<string spawnId="22">ਡ</string></Stones>
+	</Segment>
+	<Segment SegmentTime="13" spawnIds="19,83,18,82">
+		
+		<MonsterRequiredLetters>
+			<string>ਢ</string>
+			<string>ਿ</string>
+		<string>ੱ</string><string>ਡ</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ਢ</string>
+			<string>ਿ</string>
+			<string>ੱ</string>
+			<string>ਡ</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

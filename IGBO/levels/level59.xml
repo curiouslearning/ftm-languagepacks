@@ -1,0 +1,116 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="5" SegmentTime="9" StoneType="1" monsterInputType="LetterInWord">
+  <Segments>
+    <Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>n</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>n</string>
+		<string>ọ</string>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="55">n</string>
+        <string spawnId="21">b</string>
+        <string spawnId="85">n</string>
+		<string spawnId="70">z</string>
+		<string spawnId="60">n</string>
+        <string spawnId="71">t</string>
+		<string spawnId="88">b</string>
+		<string spawnId="22">n</string>
+		<string spawnId="54">n</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="55,21,85,70,60,71,88,22,54">
+      
+	  <MonsterRequiredLetters>
+		<string>y</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ọ</string>
+		<string>t</string>
+	  <string>a</string></MonsterAllLetters>
+	  <Stones>
+        <string>w</string>
+        <string>v</string>
+        <string>v</string>
+		<string>n</string>
+		<string>t</string>
+        <string>w</string>
+		<string>y</string>
+		<string>b</string>
+		<string>y</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>n</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>n</string>
+		<string>ọ</string>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="27">t</string>
+        <string spawnId="64">y</string>
+        <string spawnId="7">y</string>
+		<string spawnId="24">y</string>
+		<string spawnId="93">n</string>
+        <string spawnId="6">w</string>
+		<string spawnId="29">v</string>
+		<string spawnId="94">t</string>
+		<string spawnId="63">z</string>
+		<string spawnId="26">n</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="55,21,85,70,60,71,88,22,54">
+      
+	  <MonsterRequiredLetters>
+		<string>y</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ọ</string>
+		<string>t</string>
+		<string>a</string>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>b</string>
+        <string>n</string>
+        <string>t</string>
+		<string>v</string>
+		<string>w</string>
+		<string>w</string>
+		<string>n</string>
+		<string>v</string>
+		<string>y</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="55,21,85,70,60,71,88,22,54">
+      
+	  <MonsterRequiredLetters>
+		<string>n</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>n</string>
+		<string>ọ</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string>b</string>
+        <string>z</string>
+        <string>z</string>
+		<string>z</string>
+		<string>t</string>
+		<string>b</string>
+		<string>t</string>
+		<string>v</string>
+		<string>n</string>
+      </Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

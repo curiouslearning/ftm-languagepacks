@@ -1,0 +1,86 @@
+<XMLLevel CollectableMonster="" HideCallout="2" LettersGroup="4" SegmentTime="12" StoneType="1" monsterInputType="SoundWord">
+	<Segments>
+		<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+			
+			<MonsterRequiredLetters>
+				<string>х</string>
+				<string>м</string>
+				<string>и</string>
+			<string>з</string></MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string>щ</string>
+				<string>х</string>
+				<string>м</string>
+				<string>и</string>
+				<string>з</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>м</string>
+			<string>и</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>д</string>
+			<string>о</string>
+			<string>д</string>
+			<string>м</string>
+			<string>и</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>х</string>
+			<string>м</string>
+			<string>и</string>
+		<string>з</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>о</string>
+			<string>х</string>
+			<string>м</string>
+			<string>и</string>
+			<string>з</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>х</string>
+			<string>м</string>
+			<string>и</string>
+		<string>з</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>й</string>
+			<string>х</string>
+			<string>м</string>       
+			<string>и</string>
+			<string>з</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>з</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>й</string>
+			<string>г</string>
+			<string>о</string>
+			<string>й</string>
+			<string>з</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

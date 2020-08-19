@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XMLLevel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	monsterInputType="Letter"
+	CollectableMonster=""
+	SegmentTime="11"
+	HideCallout="-1"
+	LettersGroup="2"
+	StoneType="1"
+>
+  <Segments>
+    <Segment spawnIds="19,22,27" SegmentTime="11">
+      <!-- Puzzle One -->
+	  <MonsterRequiredLetters>
+		<string>а</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>с</string>
+        <string>а</string>
+        <string>з</string>
+      </Stones>
+    </Segment>
+	<Segment spawnIds="" SegmentTime="11">
+      <!-- Puzzle Two -->
+	  <MonsterRequiredLetters>
+		<string>с</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="18">а</string>
+        <string spawnId="21">г</string>
+        <string spawnId="26">с</string>
+      </Stones>
+    </Segment>
+	<Segment spawnIds="89,54,95" SegmentTime="11">
+      <!-- Puzzle Three -->
+	  <MonsterRequiredLetters>
+		<string>а</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>а</string>
+        <string>с</string>
+        <string>р</string>
+      </Stones>
+    </Segment>
+	<Segment spawnIds="" SegmentTime="11">
+      <!-- Puzzle Four -->
+	  <MonsterRequiredLetters>
+		<string>з</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="90">а</string>
+        <string spawnId="55">з</string>
+        <string spawnId="96">о</string>
+      </Stones>
+    </Segment>
+	<Segment spawnIds="61,59,93,94" SegmentTime="11">
+      <!-- Puzzle Five -->
+	  <MonsterRequiredLetters>
+		<string>с</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>с</string>
+        <string>з</string>
+        <string>а</string>
+		<string bonusScore="150">BonusLetter</string>
+      </Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

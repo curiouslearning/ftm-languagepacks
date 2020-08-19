@@ -1,0 +1,81 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="5" SegmentTime="8" StoneType="2" monsterInputType="LetterInWord">
+  <Segments>
+    <Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ኘ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string spawnId="15">ኘ</string>
+        <string spawnId="74">ፈ</string>
+        <string spawnId="14">ወ</string>
+		<string spawnId="75">ኘ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ጨ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ው</string>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="7">ጨ</string>
+        <string spawnId="77">ወ</string>
+        <string spawnId="6">ፐ</string>
+		<string spawnId="80">ጨ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ፈ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string spawnId="61">ኘ</string>
+        <string spawnId="8">ቸ</string>
+        <string spawnId="9">ኘ</string>
+		<string spawnId="59">ፈ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ፈ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string spawnId="95">ፈ</string>
+        <string spawnId="18">ጨ</string>
+        <string spawnId="96">ጨ</string>
+		<string spawnId="19">ፈ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ጨ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ው</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string spawnId="29">ፈ</string>
+        <string spawnId="8">ፐ</string>
+        <string spawnId="24">ወ</string>
+		<string spawnId="9">ጨ</string>
+      </Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

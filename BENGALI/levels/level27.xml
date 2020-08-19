@@ -1,0 +1,84 @@
+<XMLLevel CollectableMonster="" HideCallout="5" LettersGroup="3" SegmentTime="10" StoneType="1" monsterInputType="SoundLetter">
+  <Segments>
+    <Segment SegmentTime="10" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>ঠ</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="4">ই</string>
+    		<string spawnId="75">ই</string>
+			<string spawnId="56">ঝ</string>
+    		<string spawnId="5">জ</string>
+			<string spawnId="74">ই</string>
+			<string spawnId="57">ঠ</string>
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="4,5,56,57,74,75">
+		
+		<MonsterRequiredLetters>
+			<string>জ</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string>ন</string>
+        	<string>ঞ</string>
+			<string>ঝ</string>
+        	<string>ই</string>
+			<string>ন</string>
+			<string>জ</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>চ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="75">জ</string>
+	        <string spawnId="80">ঝ</string>
+			<string spawnId="83">ঝ</string>
+	        <string spawnId="74">ঠ</string>
+			<string spawnId="77">চ</string>
+			<string spawnId="82">চ</string>
+      	</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="75,80,83,74,77,82">
+		
+      	<MonsterRequiredLetters>
+			<string>জ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>ঞ</string>
+	        <string>ন</string>
+			<string>ঠ</string>
+	        <string>জ</string>
+			<string>ঞ</string>
+			<string>জ</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ন</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="89">চ</string>
+			<string spawnId="95">ই</string>
+	        <string spawnId="55">জ</string>
+	        <string spawnId="54">ই</string>
+			<string spawnId="90">ঠ</string>
+			<string spawnId="96">ন</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

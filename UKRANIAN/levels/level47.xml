@@ -1,0 +1,85 @@
+<XMLLevel CollectableMonster="" HideCallout="2" LettersGroup="4" SegmentTime="10" StoneType="2" monsterInputType="LetterInWord">
+  <Segments>
+    <Segment SegmentTime="10" spawnIds="54,55,82,83">
+      
+	  <MonsterRequiredLetters>
+		<string>о</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>й</string>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>й</string>
+        <string>г</string>
+        <string>г</string>
+		<string>о</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>щ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>о</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string spawnId="54">г</string>
+        <string spawnId="82">й</string>
+        <string spawnId="55">й</string>
+		<string spawnId="83">щ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="0,1,91,92">
+      
+	  <MonsterRequiredLetters>
+		<string>й</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>о</string>
+	  <string>г</string></MonsterAllLetters>
+	  <Stones>
+        <string>г</string>
+        <string>г</string>
+        <string>г</string>
+		<string>й</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>о</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>й</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string spawnId="0">щ</string>
+        <string spawnId="91">д</string>
+        <string spawnId="1">д</string>
+		<string spawnId="92">о</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="94,93,61,59">
+      
+	  <MonsterRequiredLetters>
+		<string>д</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>о</string>
+		<string>г</string>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>й</string>
+        <string>о</string>
+        <string>д</string>
+		<string>д</string>
+      </Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

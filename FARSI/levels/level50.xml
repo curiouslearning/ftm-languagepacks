@@ -1,0 +1,89 @@
+<XMLLevel CollectableMonster="" HideCallout="2" LettersGroup="4" SegmentTime="12" StoneType="1" monsterInputType="SoundWord">
+	<Segments>
+		<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+			
+			<MonsterRequiredLetters>
+				<string>ب</string>
+				<string>ا</string>
+				<string>ب</string>
+			<string>ا</string></MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string>ر</string>
+				<string>ب</string>
+				<string>ا</string>
+				<string>ب</string>
+				<string>ا</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>م</string>
+			<string>ا</string>
+			<string>د</string>
+		<string>ر</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ی</string>
+			<string>م</string>
+			<string>ا</string>
+			<string>د</string>
+			<string>ر</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>پ</string>
+			<string>ا</string>
+			<string>ن</string>
+		<string>د</string><string>ا</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>پ</string>
+			<string>ا</string>
+			<string>ن</string>
+			<string>د</string>
+			<string>ا</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>پ</string>
+			<string>ا</string>
+			<string>ن</string>
+		<string>د</string><string>ا</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>پ</string>
+			<string>ا</string>
+			<string>ن</string>       
+			<string>د</string>
+			<string>ا</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>س</string>
+			<string>ا</string>
+			<string>ر</string>
+		<string>ا</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ب</string>
+			<string>س</string>
+			<string>ا</string>
+			<string>ر</string>
+			<string>ا</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

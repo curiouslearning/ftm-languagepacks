@@ -1,0 +1,94 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="2" SegmentTime="11" StoneType="1" monsterInputType="LetterInWord">
+  <Segments>
+    <Segment SegmentTime="11" spawnIds="11,12,69,72,54,55">
+      
+	  <MonsterRequiredLetters>
+		<string>ፀ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ሀ</string>
+	  <string>ይ</string></MonsterAllLetters>
+	  <Stones>
+        <string>ተ</string>
+        <string>ፀ</string>
+        <string>ደ</string>
+		<string>ጨ</string>
+		<string>ተ</string>
+		<string>ፀ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ፀ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ሀ</string>
+	  <string>ይ</string></MonsterAllLetters>
+	  <Stones>
+        <string spawnId="11">ተ</string>
+        <string spawnId="69">የ</string>
+        <string spawnId="54">ተ</string>
+		<string spawnId="12">ፀ</string>
+		<string spawnId="55">ጨ</string>
+		<string spawnId="72">ፀ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="86,87,57,56,74,75">
+      
+	  <MonsterRequiredLetters>
+		<string>የ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string>ተ</string>
+        <string>ተ</string>
+        <string>የ</string>
+		<string>ደ</string>
+		<string>የ</string>
+		<string>የ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ፀ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ሀ</string>
+	  <string>ይ</string></MonsterAllLetters>
+	  <Stones>
+        <string spawnId="17">ደ</string>
+        <string spawnId="80">መ</string>
+        <string spawnId="11">ሀ</string>
+		<string spawnId="77">ጨ</string>
+		<string spawnId="12">ደ</string>
+		<string spawnId="16">ፀ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>መ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string spawnId="86">የ</string>
+        <string spawnId="75">ፀ</string>
+        <string spawnId="87">ጨ</string>
+		<string spawnId="74">ጨ</string>
+		<string spawnId="21">የ</string>
+		<string spawnId="22">መ</string>
+		<string bonusScore="125" spawnId="65">BonusLetter</string>
+		<string bonusScore="125" spawnId="68">BonusLetter</string>
+      </Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

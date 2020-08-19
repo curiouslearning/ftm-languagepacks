@@ -1,0 +1,88 @@
+<XMLLevel CollectableMonster="" HideCallout="2" LettersGroup="4" SegmentTime="13" StoneType="2" monsterInputType="Word">
+	<Segments>
+		<Segment SegmentTime="13" spawnIds="56,57,74,75">
+			
+			<MonsterRequiredLetters>
+				<string>გ</string>
+				<string>ო</string>
+			<string>გ</string><string>ო</string></MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string>გ</string>
+				<string>ო</string>
+				<string>გ</string>
+				<string>ო</string>
+				<string bonusScore="275" spawnId="60">BonusLetter</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="28,78,79,36,45">
+		
+		<MonsterRequiredLetters>
+			<string>ლ</string>
+			<string>ო</string>
+			<string>ქ</string>
+		<string>ო</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ძ</string>
+			<string>ლ</string>
+			<string>ო</string>
+			<string>ქ</string>
+			<string>ო</string>
+			<string spawnId="25">MagnetLetter</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="11,12,89,90,60">
+		
+		<MonsterRequiredLetters>
+			<string>წ</string>
+			<string>ო</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>უ</string>
+			<string>ს</string>
+			<string>ს</string>
+			<string>წ</string>
+			<string>ო</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="20,75,74,0,1">
+		
+		<MonsterRequiredLetters>
+			<string>ჟ</string>
+			<string>ო</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>შ</string>
+			<string>შ</string>
+			<string>ბ</string>
+			<string>ჟ</string>
+			<string>ო</string>
+			<string bonusScore="275" spawnId="23">BonusLetter</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="13" spawnIds="95,96,8,9,26">
+		
+		<MonsterRequiredLetters>
+			<string>ჟ</string>
+			<string>ო</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>შ</string>
+			<string>შ</string>
+			<string>კ</string>
+			<string>ჟ</string>
+			<string>ო</string>
+			<string spawnId="27">MagnetLetter</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

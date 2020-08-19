@@ -1,0 +1,86 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="3" SegmentTime="11" StoneType="1" monsterInputType="SoundWord">
+  <Segments>
+    <Segment SegmentTime="11" spawnIds="11,12,69,72,54,55">
+      
+	  <MonsterRequiredLetters>
+		<string>ਦ</string>
+	  <string>ਸ</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>ਅੰ</string>
+        <string>ਢ</string>
+        <string>ਅੰ</string>
+		<string>ਢ</string>
+		<string>ਦ</string>
+		<string>ਸ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ਦ</string>
+	  <string>ਸ</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="11">ਅੰ</string>
+        <string spawnId="69">ਣ</string>
+        <string spawnId="54">ਅੰ</string>
+		<string spawnId="12">ਣ</string>
+		<string spawnId="55">ਦ</string>
+		<string spawnId="72">ਸ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="86,87,57,56,74,75">
+      
+	  <MonsterRequiredLetters>
+		<string>ਸ਼</string>
+	  <string>ਬ</string><string>ਦ</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string>ਢ</string>
+        <string>ਅੰ</string>
+        <string>ਢ</string>
+		<string>ਸ਼</string>
+		<string>ਬ</string>
+		<string>ਦ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ਦ</string>
+	  <string>ਸ</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="17">ਅੰ</string>
+        <string spawnId="80">ਅੰ</string>
+        <string spawnId="11">ਢ</string>
+		<string spawnId="77">ਢ</string>
+		<string spawnId="12">ਦ</string>
+		<string spawnId="16">ਸ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ਦ</string>
+	  <string>ੱ</string><string>ਸ</string></MonsterRequiredLetters>
+	  <MonsterAllLetters>
+	  </MonsterAllLetters>
+	  <Stones>
+        <string spawnId="86">ਣ</string>
+        <string spawnId="75">ਢ</string>
+        <string spawnId="87">ਣ</string>
+		<string spawnId="74">ਦ</string>
+		<string spawnId="21">ੱ</string>
+		<string spawnId="22">ਸ</string>
+		<string bonusScore="125" spawnId="65">BonusLetter</string>
+		<string bonusScore="125" spawnId="68">BonusLetter</string>
+      </Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

@@ -1,0 +1,101 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="5" SegmentTime="9" StoneType="1" monsterInputType="Letter">
+  <Segments>
+    <Segment SegmentTime="9" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>უ</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="60">კ</string>
+    		<string spawnId="54">კ</string>
+			<string spawnId="72">შ</string>
+			<string spawnId="82">უ</string>
+			<string spawnId="69">შ</string>
+			<string spawnId="3">ძ</string>
+			<string spawnId="83">ბ</string>
+			<string spawnId="55">ბ</string>
+			<string spawnId="2">უ</string>
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="9" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ბ</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string spawnId="81">ძ</string>
+			<string spawnId="12">ძ</string>
+			<string spawnId="70">ძ</string>
+			<string spawnId="55">შ</string>
+			<string spawnId="11">შ</string>
+			<string spawnId="71">შ</string>
+			<string spawnId="84">ს</string>
+			<string spawnId="61">უ</string>
+			<string spawnId="59">ბ</string>
+			<string bonusScore="275" spawnId="54">BonusLetter</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="60,54,72,82,69,3,83,55,2">
+		
+      	<MonsterRequiredLetters>
+			<string>შ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string>ს</string>
+	        <string>უ</string>
+			<string>უ</string>
+			<string>უ</string>
+			<string>ძ</string>
+			<string>შ</string>
+			<string>უ</string>
+			<string>ბ</string>
+			<string>შ</string>
+      	</Stones>
+	</Segment>
+	<Segment SegmentTime="9" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>კ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="84">შ</string>
+			<string spawnId="11">ბ</string>
+			<string spawnId="71">შ</string>
+			<string spawnId="54">ძ</string>
+			<string spawnId="12">ძ</string>
+			<string spawnId="70">ბ</string>
+			<string spawnId="81">კ</string>
+			<string spawnId="59">კ</string>
+			<string spawnId="61">კ</string>
+			<string bonusScore="275" spawnId="55">BonusLetter</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="60,54,72,82,69,3,83,55,2">
+		
+      	<MonsterRequiredLetters>
+			<string>უ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>კ</string>
+			<string>ს</string>
+			<string>ს</string>
+			<string>ს</string>
+			<string>უ</string>
+			<string>ს</string>
+			<string>ბ</string>
+			<string>ს</string>
+			<string>უ</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

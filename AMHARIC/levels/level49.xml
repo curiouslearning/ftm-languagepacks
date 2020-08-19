@@ -1,0 +1,82 @@
+<XMLLevel CollectableMonster="" HideCallout="2" LettersGroup="4" SegmentTime="12" StoneType="1" monsterInputType="Word">
+	<Segments>
+		<Segment SegmentTime="12" spawnIds="64,6,7,78,79">
+			
+			<MonsterRequiredLetters>
+				<string>ጃ</string>
+				</MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string>ፐ</string>
+				<string>ሸ</string>
+				<string>ጨ</string>
+				<string>ቸ</string>
+				<string>ጃ</string>
+				<string spawnId="63">MagnetLetter</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>ዛ</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ሸ</string>
+			<string>ፐ</string>
+			<string>ፈ</string>
+			<string>ቸ</string>
+			<string>ዛ</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="6,77,80,62,58">
+		
+		<MonsterRequiredLetters>
+			<string>ዘ</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ወ</string>
+			<string>ኘ</string>
+			<string>ጨ</string>
+			<string>ጨ</string>
+			<string>ዘ</string>
+			<string bonusScore="275" spawnId="7">BonusLetter</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="6,77,80,62,58">
+		
+		<MonsterRequiredLetters>
+			<string>ዢ</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ኘ</string>
+			<string>ቸ</string>
+			<string>ሸ</string>       
+			<string>ጨ</string>
+			<string>ዢ</string>
+			<string spawnId="7">MagnetLetter</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>ጊ</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ወ</string>
+			<string>ፈ</string>
+			<string>ፐ</string>
+			<string>ወ</string>
+			<string>ጊ</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

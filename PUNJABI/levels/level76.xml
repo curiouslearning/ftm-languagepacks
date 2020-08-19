@@ -1,0 +1,98 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="12" SegmentTime="10" StoneType="1" monsterInputType="SoundWord">
+	<Segments>
+		<Segment SegmentTime="10" spawnIds="">
+			
+			<MonsterRequiredLetters>
+				<string>ਬ</string>
+				<string>ਣ</string>
+				</MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string spawnId="81">ਅੰ</string>
+				<string spawnId="55">ਅੰ</string>
+				<string spawnId="90">ਢ</string>
+				<string spawnId="60">ਢ</string>
+				<string spawnId="89">ਢ</string>
+				<string spawnId="54">ਬ</string>
+				<string spawnId="84">ਣ</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
+		<MonsterRequiredLetters>
+			<string>ਢ</string>
+			<string>ੰ</string>
+			<string>ਗ</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ਣ</string>
+			<string>ਣ</string>
+			<string>ਅੰ</string>
+			<string>ਣ</string>
+			<string>ਢ</string>
+			<string>ੰ</string>
+			<string>ਗ</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
+		<MonsterRequiredLetters>
+			<string>ਚ</string>
+			<string>ੋ</string>
+			<string>ਣ</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ਅੰ</string>
+			<string>ਢ</string>
+			<string>ਢ</string>
+			<string>ਅੰ</string>
+			<string>ਚ</string>
+			<string>ੋ</string>
+			<string>ਣ</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
+		<MonsterRequiredLetters>
+			<string>ਕ</string>
+			<string>ੰ</string>
+			<string>ਢ</string>
+		<string>ੇ</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ਅੰ</string>
+			<string>ਣ</string>
+			<string>ਣ</string>
+			<string>ਕ</string>
+			<string>ੰ</string>
+			<string>ਢ</string>
+			<string>ੇ</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
+		<MonsterRequiredLetters>
+			<string>ਢ</string>
+			<string>ੰ</string>
+			<string>ਗ</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ਣ</string>
+			<string>ਣ</string>
+			<string>ਅੰ</string>
+			<string>ਅੰ</string>
+			<string>ਢ</string>
+			<string>ੰ</string>
+			<string>ਗ</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

@@ -1,0 +1,90 @@
+<XMLLevel CollectableMonster="Ice" HideCallout="-1" LettersGroup="2" SegmentTime="11" StoneType="1" monsterInputType="LetterInWord">
+  <Segments>
+    <Segment SegmentTime="11" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>የ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string spawnId="67">ፀ</string>
+        <string spawnId="66">መ</string>
+        <string spawnId="21">መ</string>
+		<string spawnId="22">መ</string>
+		<string spawnId="91">መ</string>
+        <string spawnId="92">የ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ሀ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string spawnId="19">ፀ</string>
+        <string spawnId="18">ደ</string>
+        <string spawnId="11">መ</string>
+		<string spawnId="71">ጨ</string>
+		<string spawnId="70">ጨ</string>
+        <string spawnId="12">ሀ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="59,61,93,94,45,36">
+      
+	  <MonsterRequiredLetters>
+		<string>ሀ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string>የ</string>
+        <string>ጨ</string>
+        <string>ሀ</string>
+		<string>ፀ</string>
+		<string>ሀ</string>
+        <string>ሀ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="59,61,93,94,45,36">
+      
+	  <MonsterRequiredLetters>
+		<string>መ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string>ጨ</string>
+        <string>ጨ</string>
+        <string>ፀ</string>
+		<string>ተ</string>
+		<string>ተ</string>
+		<string>መ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="60,82,83,54,55,70,71">
+      
+	  <MonsterRequiredLetters>
+		<string>መ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		</MonsterAllLetters>
+	  <Stones>
+        <string>ተ</string>
+        <string>ተ</string>
+        <string>ተ</string>
+		<string>መ</string>
+		<string>ተ</string>
+		<string>መ</string>
+		<string bonusScore="250">BonusLetter</string>
+      </Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

@@ -1,0 +1,81 @@
+<XMLLevel CollectableMonster="" HideCallout="4" LettersGroup="3" SegmentTime="13" StoneType="2" monsterInputType="Word">
+	<Segments>
+		<Segment SegmentTime="13" spawnIds="9,96,8,95">
+			
+			<MonsterRequiredLetters>
+				<string>م</string>
+				<string>ا</string>
+			<string>چ</string></MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string>د</string>
+				<string>م</string>
+				<string>ا</string>
+				<string>چ</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="70,71,56,57">
+		
+		<MonsterRequiredLetters>
+			<string>ت</string>
+			<string>ا</string>
+		<string>ب</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ن</string>
+			<string>ت</string>
+			<string>ا</string>
+			<string>ب</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>م</string>
+			<string>ا</string>
+		<string>چ</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="82">ر</string>
+			<string spawnId="55">م</string>
+			<string spawnId="83">ا</string>
+			<string spawnId="54">چ</string>
+			<string bonusScore="275" spawnId="60">BonusLetter</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ت</string>
+			<string>ا</string>
+			<string>ج</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="36">ت</string>
+			<string spawnId="79">ا</string>
+			<string spawnId="45">ج</string>
+			<string spawnId="78">MagnetLetter</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="13" spawnIds="19,83,18,82">
+		
+		<MonsterRequiredLetters>
+			<string>ت</string>
+			<string>ا</string>
+		<string>ب</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>د</string>
+			<string>ت</string>
+			<string>ا</string>
+			<string>ب</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

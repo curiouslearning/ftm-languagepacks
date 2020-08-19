@@ -1,0 +1,92 @@
+<XMLLevel CollectableMonster="" HideCallout="2" LettersGroup="4" SegmentTime="12" StoneType="1" monsterInputType="Word">
+	<Segments>
+		<Segment SegmentTime="12" spawnIds="64,6,7,78,79">
+			
+			<MonsterRequiredLetters>
+				<string>پ</string>
+				<string>ا</string>
+				<string>ن</string>
+			<string>د</string><string>ا</string></MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string>پ</string>
+				<string>ا</string>
+				<string>ن</string>
+				<string>د</string>
+				<string>ا</string>
+				<string spawnId="63">MagnetLetter</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>پ</string>
+			<string>ا</string>
+			<string>ن</string>
+		<string>د</string><string>ا</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>پ</string>
+			<string>ا</string>
+			<string>ن</string>
+			<string>د</string>
+			<string>ا</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="6,77,80,62,58">
+		
+		<MonsterRequiredLetters>
+			<string>ب</string>
+			<string>ا</string>
+			<string>د</string>
+		<string>ا</string><string>م</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ب</string>
+			<string>ا</string>
+			<string>د</string>
+			<string>ا</string>
+			<string>م</string>
+			<string bonusScore="275" spawnId="7">BonusLetter</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="6,77,80,62,58">
+		
+		<MonsterRequiredLetters>
+			<string>ب</string>
+			<string>ا</string>
+			<string>د</string>
+		<string>ا</string><string>م</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ب</string>
+			<string>ا</string>
+			<string>د</string>       
+			<string>ا</string>
+			<string>م</string>
+			<string spawnId="7">MagnetLetter</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>ب</string>
+			<string>ا</string>
+			<string>ب</string>
+		<string>ا</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>س</string>
+			<string>ب</string>
+			<string>ا</string>
+			<string>ب</string>
+			<string>ا</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

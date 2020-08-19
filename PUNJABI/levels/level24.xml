@@ -1,0 +1,79 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="4" SegmentTime="13" StoneType="1" monsterInputType="SoundWord">
+	<Segments>
+		<Segment SegmentTime="13" spawnIds="21,60,22">
+			
+			<MonsterRequiredLetters>
+				<string>ਹ</string>
+				<string>ੱ</string>
+				<string>ਲ</string>
+			</MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string>ਹ</string>
+				<string>ੱ</string>
+				<string>ਲ</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="90,55,96">
+		
+		<MonsterRequiredLetters>
+			<string>ਸ</string>
+			<string>ੇ</string>
+			<string>ਬ</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ਸ</string>
+			<string>ੇ</string>
+			<string>ਬ</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="89,54,95">
+		
+		<MonsterRequiredLetters>
+			<string>ਖ</string>
+			<string>ੜ</string>
+			<string>ਾ</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ਖ</string>
+			<string>ੜ</string>
+			<string>ਾ</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="59,93,36">
+		
+		<MonsterRequiredLetters>
+			<string>ਹ</string>
+			<string>ੱ</string>
+			<string>ਲ</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ਹ</string>
+			<string>ੱ</string>
+			<string>ਲ</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="13" spawnIds="61,94,45">
+		
+		<MonsterRequiredLetters>
+			<string>ਖ</string>
+			<string>ੜ</string>
+			<string>ਾ</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ਖ</string>
+			<string>ੜ</string>
+			<string>ਾ</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

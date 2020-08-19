@@ -1,0 +1,81 @@
+<XMLLevel CollectableMonster="" HideCallout="4" LettersGroup="3" SegmentTime="12" StoneType="1" monsterInputType="SoundWord">
+	<Segments>
+		<Segment SegmentTime="12" spawnIds="19,83,18,82">
+			
+			<MonsterRequiredLetters>
+				<string>ნ</string>
+				<string>ი</string>
+			</MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string>კ</string>
+				<string>ს</string>
+				<string>ნ</string>
+				<string>ი</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="25,28,91,92">
+		
+		<MonsterRequiredLetters>
+			<string>ჩ</string>
+			<string>ი</string>
+			<string>რ</string>
+		<string>ი</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ჩ</string>
+			<string>ი</string>
+			<string>რ</string>
+			<string>ი</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="4,5,54,55">
+		
+		<MonsterRequiredLetters>
+			<string>რ</string>
+			<string>ი</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>უ</string>
+			<string>შ</string>
+			<string>რ</string>
+			<string>ი</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="70,71,56,57">
+		
+		<MonsterRequiredLetters>
+			<string>პ</string>
+			<string>ი</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ბ</string>
+			<string>ბ</string>
+			<string>პ</string>     
+			<string>ი</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="12" spawnIds="9,96,8,95">
+		
+		<MonsterRequiredLetters>
+			<string>ჩ</string>
+			<string>ი</string>
+			<string>რ</string>
+		<string>ი</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ჩ</string>
+			<string>ი</string>
+			<string>რ</string>
+			<string>ი</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

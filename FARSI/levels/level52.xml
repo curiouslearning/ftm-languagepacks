@@ -1,0 +1,102 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="5" SegmentTime="8" StoneType="1" monsterInputType="Letter">
+  <Segments>
+    <Segment SegmentTime="9" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>ا</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="72">ژ</string>
+    		<string spawnId="95">ل</string>
+    		<string spawnId="96">خ</string>
+			<string spawnId="54">ه</string>
+			<string spawnId="27">ن</string>
+			<string spawnId="2">ب</string>
+			<string spawnId="69">ه</string>
+			<string spawnId="26">ژ</string>
+			<string spawnId="55">ا</string>
+			<string bonusScore="275" spawnId="3">BonusLetter</string>
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="9" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ن</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string spawnId="22">ا</string>
+        	<string spawnId="74">ت</string>
+			<string spawnId="15">د</string>
+        	<string spawnId="60">د</string>
+			<string spawnId="14">ب</string>
+			<string spawnId="75">ن</string>
+			<string spawnId="21">س</string>
+			<string spawnId="11">خ</string>
+			<string spawnId="12">ن</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ژ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="69">ب</string>
+	        <string spawnId="96">ن</string>
+	        <string spawnId="95">ن</string>
+			<string spawnId="55">ل</string>
+			<string spawnId="26">ن</string>
+			<string spawnId="3">د</string>
+			<string spawnId="72">ه</string>
+			<string spawnId="27">د</string>
+			<string spawnId="54">ژ</string>
+			<string bonusScore="275" spawnId="2">BonusLetter</string>
+      	</Stones>
+	</Segment>
+	<Segment SegmentTime="9" spawnIds="22,74,15,60,14,75,21,11,12">
+		
+      	<MonsterRequiredLetters>
+			<string>د</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>ل</string>
+	        <string>ژ</string>
+			<string>س</string>
+	        <string>س</string>
+			<string>س</string>
+			<string>خ</string>
+			<string>ل</string>
+			<string>ل</string>
+			<string>د</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ا</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="72">ن</string>
+	        <string spawnId="95">ه</string>
+	        <string spawnId="96">ا</string>
+			<string spawnId="54">ه</string>
+			<string spawnId="27">ب</string>
+			<string spawnId="2">د</string>
+			<string spawnId="69">د</string>
+			<string spawnId="26">س</string>
+			<string spawnId="55">ا</string>
+			<string bonusScore="275" spawnId="3">BonusLetter</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

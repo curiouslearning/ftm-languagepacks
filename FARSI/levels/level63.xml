@@ -1,0 +1,94 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="5" SegmentTime="11" StoneType="1" monsterInputType="SoundWord">
+	<Segments>
+		<Segment SegmentTime="11" spawnIds="">
+			
+			<MonsterRequiredLetters>
+				<string>خ</string>
+				<string>ا</string>
+				<string>ل</string>
+			<string>ه</string></MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string spawnId="72">د</string>
+				<string spawnId="81">ب</string>
+				<string spawnId="8">خ</string>
+				<string spawnId="9">ا</string>
+				<string spawnId="69">ل</string>
+				<string spawnId="84">ه</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			<string>س</string>
+			<string>ا</string>
+			<string>د</string>
+		<string>ه</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ی</string>
+			<string>ن</string>
+			<string>س</string>
+			<string>ا</string>
+			<string>د</string>
+			<string>ه</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			<string>ژ</string>
+			<string>ا</string>
+			<string>ل</string>
+		<string>ه</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>س</string>
+			<string>ب</string>
+			<string>ژ</string>
+			<string>ا</string>
+			<string>ل</string>
+			<string>ه</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			<string>ت</string>
+			<string>ا</string>
+			<string>ب</string>
+		<string>ه</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>س</string>
+			<string>س</string>
+			<string>ت</string>      
+			<string>ا</string>
+			<string>ب</string>
+			<string>ه</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			<string>ژ</string>
+			<string>ا</string>
+			<string>ل</string>
+		<string>ه</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ر</string>
+			<string>ی</string>
+			<string>ژ</string>
+			<string>ا</string>
+			<string>ل</string>
+			<string>ه</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

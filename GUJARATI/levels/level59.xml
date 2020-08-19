@@ -1,0 +1,99 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="15" SegmentTime="11" StoneType="1" monsterInputType="Letter">
+  <Segments>
+  		<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ઢો</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="10">ડં</string>
+	        <string spawnId="61">ણો</string>
+			<string spawnId="71">ઢૌ</string>
+
+			<string spawnId="96">ઢો</string>
+			<string spawnId="13">તૌ</string>
+			<string spawnId="95">થં</string>
+			<string spawnId="55">તં</string>
+			<string spawnId="70">થઃ</string>
+      	</Stones>
+	</Segment>
+    <Segment SegmentTime="10" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>ણૌ</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="87">ણઃ</string>
+			<string spawnId="78">થૌ</string>
+    		<string spawnId="64">ઢૌ</string>
+			<string spawnId="60">ઢો</string>
+			<string spawnId="36">થો</string>
+			<string spawnId="79">ણૌ</string>
+			<string spawnId="86">ણો</string>
+
+			<string spawnId="45">થો</string>
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ઢૌ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="20">ઢો</string>
+			<string spawnId="23">ણૌ</string>
+			<string spawnId="54">ઢૌ</string>
+			<string spawnId="55">થં</string>
+			<string spawnId="58">ઢૌ</string>
+
+			<string spawnId="21">Shield</string>
+			<string bonusScore="275" spawnId="22">BonusLetter</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ડૌ</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string spawnId="18">ઢં</string>
+			<string spawnId="19">ડૌ</string>
+			<string spawnId="36">થૌ</string>
+			<string spawnId="45">ણઃ</string>
+			<string spawnId="57">થૌ</string>
+			<string spawnId="56">ઢં</string>
+			<string spawnId="8">Shield</string>
+			<string bonusScore="275" spawnId="9">BonusLetter</string>
+      	</Stones>
+    </Segment>
+
+
+	<Segment SegmentTime="10" spawnIds="87,78,64,60,36,79,86,63,45">
+		
+      	<MonsterRequiredLetters>
+			<string>તૌ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>થઃ</string>
+			<string>થં</string>
+			<string>ઢં</string>
+			<string>ણો</string>
+			<string>થં</string>
+			<string>થઃ</string>
+			<string>ઢં</string>
+			<string>તૌ</string>
+			<string>ણૌ</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

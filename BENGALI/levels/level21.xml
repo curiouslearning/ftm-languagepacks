@@ -1,0 +1,80 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="2" SegmentTime="11" StoneType="2" monsterInputType="LetterInWord">
+  <Segments>
+    <Segment SegmentTime="11" spawnIds="5,55,62">
+      
+	  <MonsterRequiredLetters>
+		<string>আ</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>ড়</string>
+	  <string>া</string><string>ল</string></MonsterAllLetters>
+	  <Stones>
+        <string>আ</string>
+		<string>ল</string>
+        <string>আ</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>র</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>া</string>
+	  <string>ঙ</string><string>া</string></MonsterAllLetters>
+	  <Stones>
+        <string spawnId="4">ঙ</string>
+        <string spawnId="54">ল</string>
+		<string spawnId="58">র</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="60,8,9">
+      
+	  <MonsterRequiredLetters>
+		<string>র</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>া</string>
+	  <string>ঙ</string><string>া</string></MonsterAllLetters>
+	  <Stones>
+        <string>আ</string>
+        <string>ল</string>
+		<string>র</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="">
+      
+	  <MonsterRequiredLetters>
+		<string>ল</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>া</string>
+	  <string>ল</string></MonsterAllLetters>
+	  <Stones>
+        <string spawnId="8">ষ</string>
+        <string spawnId="9">ষ</string>
+        <string spawnId="60">ল</string>
+      </Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="25,28,93,94">
+      
+	  <MonsterRequiredLetters>
+		<string>ল</string>
+	  </MonsterRequiredLetters>
+	  <MonsterAllLetters>
+		<string>X</string>
+		<string>া</string>
+	  <string>ল</string></MonsterAllLetters>
+	  <Stones>
+        <string>ঙ</string>
+        <string>ষ</string>
+		<string>ল</string>
+		<string bonusScore="250">BonusLetter</string>
+      </Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

@@ -1,0 +1,88 @@
+<XMLLevel CollectableMonster="" HideCallout="5" LettersGroup="3" SegmentTime="10" StoneType="1" monsterInputType="Letter">
+  <Segments>
+    <Segment SegmentTime="10" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>r</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="22">s</string>
+    		<string spawnId="4">sh</string>
+    		<string spawnId="76">s</string>
+    		<string spawnId="21">sh</string>
+			<string spawnId="5">i</string>
+			<string spawnId="73">r</string>	
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>kp</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string spawnId="19">kp</string>
+        	<string spawnId="18">i</string>
+        	<string delayIn="0" delayRepet="0" loop="true" spawnId="11,86,11" speed="125">sh</string>
+        	<string delayIn="0" delayRepet="0" loop="true" spawnId="87,12,87" speed="125">kp</string>
+			<string spawnId="69">s</string>
+			<string spawnId="72">ny</string>
+			<string spawnId="81">kp</string>
+			<string bonusScore="275" spawnId="84">BonusLetter</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>s</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="25">i</string>
+	        <string spawnId="45">p</string>
+	        <string spawnId="93">sh</string>
+			<string spawnId="94">r</string>
+			<string spawnId="36">sh</string>
+			<string spawnId="28">s</string>
+      	</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>r</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="58">p</string>
+	        <string delayIn="0" delayRepet="0" loop="true" spawnId="45,36,45" speed="150">ny</string>
+	        <string spawnId="62">ny</string>
+			<string delayIn="0" delayRepet="0" loop="true" spawnId="93,94,93" speed="150">p</string>
+			<string spawnId="66">i</string>
+			<string spawnId="67">s</string>
+			<string spawnId="27">r</string>
+			<string bonusScore="275" spawnId="26">BonusLetter</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>kp</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="90">i</string>
+	        <string spawnId="55">ny</string>
+	        <string spawnId="96">s</string>
+			<string spawnId="89">ny</string>
+			<string spawnId="54">s</string>
+			<string spawnId="95">kp</string>
+		</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

@@ -1,0 +1,89 @@
+<XMLLevel CollectableMonster="" HideCallout="2" LettersGroup="4" SegmentTime="12" StoneType="1" monsterInputType="SoundWord">
+	<Segments>
+		<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+			
+			<MonsterRequiredLetters>
+				<string>ব</string>
+				<string>া</string>
+				<string>ণ</string>
+			<string>ী</string></MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string>ঔ</string>
+				<string>ব</string>
+				<string>া</string>
+				<string>ণ</string>
+				<string>ী</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>ত</string>
+			<string>ী</string>
+			<string>র</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ন</string>
+			<string>গ</string>
+			<string>ত</string>
+			<string>ী</string>
+			<string>র</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>ত</string>
+			<string>ী</string>
+			<string>র</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ম</string>
+			<string>গ</string>
+			<string>ত</string>
+			<string>ী</string>
+			<string>র</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>শ</string>
+			<string>ী</string>
+			<string>ত</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ম</string>
+			<string>ন</string>
+			<string>শ</string>       
+			<string>ী</string>
+			<string>ত</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>শ</string>
+			<string>ী</string>
+			<string>ত</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>য</string>
+			<string>ঔ</string>
+			<string>শ</string>
+			<string>ী</string>
+			<string>ত</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

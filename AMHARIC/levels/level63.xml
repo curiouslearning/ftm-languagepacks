@@ -1,0 +1,84 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="5" SegmentTime="11" StoneType="1" monsterInputType="SoundWord">
+	<Segments>
+		<Segment SegmentTime="11" spawnIds="">
+			
+			<MonsterRequiredLetters>
+				<string>ፕ</string>
+				</MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string spawnId="72">ወ</string>
+				<string spawnId="81">ጨ</string>
+				<string spawnId="8">ሸ</string>
+				<string spawnId="9">ቸ</string>
+				<string spawnId="69">ፐ</string>
+				<string spawnId="84">ፕ</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			<string>ፐ</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ሸ</string>
+			<string>ሸ</string>
+			<string>ጨ</string>
+			<string>ኘ</string>
+			<string>ፈ</string>
+			<string>ፐ</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			<string>ኘ</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ሸ</string>
+			<string>ፐ</string>
+			<string>ወ</string>
+			<string>ጨ</string>
+			<string>ወ</string>
+			<string>ኘ</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			<string>ኜ</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ፐ</string>
+			<string>ኘ</string>
+			<string>ሸ</string>      
+			<string>ወ</string>
+			<string>ሸ</string>
+			<string>ኜ</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="72,81,8,9,69,84">
+		
+		<MonsterRequiredLetters>
+			<string>ፎ</string>
+			</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ኘ</string>
+			<string>ወ</string>
+			<string>ፐ</string>
+			<string>ፈ</string>
+			<string>ሸ</string>
+			<string>ፎ</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

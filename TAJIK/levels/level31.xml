@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XMLLevel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	monsterInputType="SoundLetter"
+	CollectableMonster=""
+	SegmentTime="10"
+	HideCallout="-1"
+	LettersGroup="5"
+	StoneType="1"
+>
+  <Segments>
+  	<Segment spawnIds="" SegmentTime="10">
+		<!-- Puzzle Two -->
+		<MonsterRequiredLetters>
+			<string>п</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string spawnId="19">и</string>
+        	<string spawnId="18">п</string>
+       	<string spawnId="69">х</string>
+			<string spawnId="72">м</string>
+		
+			<string spawnId="84" bonusScore="275" >BonusLetter</string>
+      	</Stones>
+    </Segment>
+    <Segment spawnIds="" SegmentTime="10">
+    	<!-- Puzzle One -->
+    	<MonsterRequiredLetters>
+    		<string>и</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="22">п</string>
+    		<string spawnId="4">м</string>
+    		<string spawnId="76">и</string>
+    		<string spawnId="21">х</string>
+			<string spawnId="5">к</string>
+			<string spawnId="73">б</string>
+    	</Stones>
+	</Segment>
+	
+	<Segment spawnIds="" SegmentTime="10">
+		<!-- Puzzle Three -->
+      	<MonsterRequiredLetters>
+			<string>м</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="25">ш</string>
+	        <string spawnId="45">и</string>
+	        <string spawnId="93">м</string>
+			<string spawnId="94">б</string>
+			<string spawnId="36">п</string>
+			<string spawnId="28">х</string>
+      	</Stones>
+	</Segment>
+	<Segment spawnIds="" SegmentTime="10">
+		<!-- Puzzle Four -->
+      	<MonsterRequiredLetters>
+			<string>к</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="58">п</string>
+	         <string spawnId="62">и</string>
+				<string spawnId="66">к</string>
+			<string spawnId="67">м</string>
+				<string spawnId="26" bonusScore="275" >BonusLetter</string>
+      	</Stones>
+    </Segment>
+	<Segment spawnIds="" SegmentTime="10">
+		<!-- Puzzle Five -->
+      	<MonsterRequiredLetters>
+			<string>х</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="90">х</string>
+	        <string spawnId="55">п</string>
+	        <string spawnId="96">б</string>
+			<string spawnId="89">м</string>
+			<string spawnId="54">и</string>
+			<string spawnId="95">к</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>
