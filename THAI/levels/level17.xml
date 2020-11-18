@@ -1,0 +1,76 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="2" SegmentTime="11" StoneType="1" monsterInputType="SoundLetter">
+  <Segments>
+    <Segment SegmentTime="11" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>บ</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="84">ม</string>
+    		<string spawnId="54">น</string>
+    		<string spawnId="55">ด</string>
+			<string spawnId="81">บ</string>
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ง</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string spawnId="82">อี</string>
+        	<string spawnId="8">ด</string>
+        	<string spawnId="83">ม</string>
+			<string spawnId="9">ง</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ด</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="23">บ</string>
+	        <string spawnId="74">บ</string>
+	        <string spawnId="75">ง</string>
+			<string spawnId="20">ด</string>
+      	</Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ค</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="3">ม</string>
+	        <string spawnId="70">ช</string>
+	        <string spawnId="71">อี</string>
+			<string spawnId="2">ค</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>น</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="89">น</string>
+	        <string spawnId="96">ช</string>
+	        <string spawnId="95">ง</string>
+			<string spawnId="90">น</string>
+	        <string bonusScore="125" spawnId="18">BonusLetter</string>
+			<string bonusScore="125" spawnId="19">BonusLetter</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

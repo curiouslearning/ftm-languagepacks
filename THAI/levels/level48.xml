@@ -1,0 +1,90 @@
+<XMLLevel CollectableMonster="" HideCallout="2" LettersGroup="4" SegmentTime="13" StoneType="2" monsterInputType="Word">
+	<Segments>
+		<Segment SegmentTime="13" spawnIds="56,57,74,75">
+			
+			<MonsterRequiredLetters>
+				<string>เ</string>
+				<string>ม</string>
+			<string>ง</string></MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string>บ</string>
+				<string>เ</string>
+				<string>ม</string>
+				<string>ง</string>
+				<string bonusScore="275" spawnId="60">BonusLetter</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="28,78,79,36,45">
+		
+		<MonsterRequiredLetters>
+			<string>เ</string>
+			<string>บ</string>
+			<string>น</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ช</string>
+			<string>อุ</string>
+			<string>เ</string>
+			<string>บ</string>
+			<string>น</string>
+			<string spawnId="25">MagnetLetter</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="11,12,89,90,60">
+		
+		<MonsterRequiredLetters>
+			<string>เ</string>
+			<string>ด</string>
+		<string>น</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>บ</string>
+			<string>อุ</string>
+			<string>เ</string>
+			<string>ด</string>
+			<string>น</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="20,75,74,0,1">
+		
+		<MonsterRequiredLetters>
+			<string>เ</string>
+			<string>บ</string>
+			<string>น</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ง</string>
+			<string>อุ</string>
+			<string>เ</string>
+			<string>บ</string>
+			<string>น</string>
+			<string bonusScore="275" spawnId="23">BonusLetter</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="13" spawnIds="95,96,8,9,26">
+		
+		<MonsterRequiredLetters>
+			<string>เ</string>
+			<string>ม</string>
+			<string>ง</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>อุ</string>
+			<string>ด</string>
+			<string>เ</string>
+			<string>ม</string>
+			<string>ง</string>
+			<string spawnId="27">MagnetLetter</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

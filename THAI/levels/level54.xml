@@ -1,0 +1,100 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="5" SegmentTime="9" StoneType="1" monsterInputType="Letter">
+  <Segments>
+    <Segment SegmentTime="9" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>ง</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="58">ค</string>
+    		<string spawnId="3">อุ</string>
+    		<string spawnId="62">ง</string>
+    		<string spawnId="4">ง</string>
+			<string spawnId="57">อุ</string>
+			<string spawnId="91">ด</string>
+			<string spawnId="92">อุ</string>
+			<string spawnId="2">ด</string>
+			<string spawnId="56">ง</string>
+			<string bonusScore="275" spawnId="5">BonusLetter</string>
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="9" spawnIds="67,74,82,71,70,83,75,66,60">
+		
+		<MonsterRequiredLetters>
+			<string>อ</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string>ง</string>
+        	<string>ง</string>
+			<string>บ</string>
+			<string>ค</string>
+			<string>น</string>
+			<string>บ</string>
+			<string>ค</string>
+			<string>ช</string>
+			<string>อ</string>
+      	<string spawnId="26">ุ</string></Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ช</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="5">ช</string>
+	        <string spawnId="56">ด</string>
+	        <string spawnId="2">ช</string>
+			<string spawnId="92">ม</string>
+			<string spawnId="91">น</string>
+			<string spawnId="57">บ</string>
+			<string spawnId="4">ค</string>
+			<string spawnId="62">อุ</string>
+			<string spawnId="3">ช</string>
+			<string bonusScore="275" spawnId="58">BonusLetter</string>
+      	</Stones>
+	</Segment>
+	<Segment SegmentTime="9" spawnIds="67,74,82,71,70,83,75,66,60">
+		
+      	<MonsterRequiredLetters>
+			<string>ด</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>ม</string>
+	        <string>ด</string>
+			<string>ม</string>
+	        <string>ด</string>
+			<string>ง</string>
+			<string>ม</string>
+			<string>ช</string>
+			<string>ค</string>
+			<string>ด</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="58,3,62,4,57,91,92,2,56,5">
+		
+      	<MonsterRequiredLetters>
+			<string>ม</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>บ</string>
+	        <string>ม</string>
+	        <string>ง</string>
+			<string>ด</string>
+			<string>น</string>
+			<string>บ</string>
+			<string>ม</string>
+			<string>ม</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

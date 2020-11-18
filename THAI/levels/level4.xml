@@ -1,0 +1,70 @@
+<XMLLevel CollectableMonster="Fire" HideCallout="-1" LettersGroup="1" SegmentTime="11" StoneType="1" monsterInputType="Letter">
+  <Segments>
+    <Segment SegmentTime="11" spawnIds="67,45,79">
+    	
+    	<MonsterRequiredLetters>
+    		<string>ง</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string>อ</string>
+    		<string>ค</string>
+    		<string>ง</string>
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="66,36,78">
+		
+		<MonsterRequiredLetters>
+			<string>อ</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string>ม</string>
+        	<string>ง</string>
+        	<string>อ</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="18,21,26">
+		
+      	<MonsterRequiredLetters>
+			<string>ง</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string>ค</string>
+	        <string>น</string>
+	        <string>ง</string>
+      	</Stones>
+	</Segment>
+	<Segment SegmentTime="11" spawnIds="19,22,27">
+		
+      	<MonsterRequiredLetters>
+			<string>บ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>บ</string>
+	        <string>บ</string>
+	        <string>บ</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="11" spawnIds="87,27,26,86">
+		
+      	<MonsterRequiredLetters>
+			<string>ง</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>ด</string>
+	        <string>ด</string>
+	        <string>ง</string>
+			<string bonusScore="125">BonusLetter</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

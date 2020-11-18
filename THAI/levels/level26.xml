@@ -1,0 +1,88 @@
+<XMLLevel CollectableMonster="" HideCallout="5" LettersGroup="3" SegmentTime="10" StoneType="1" monsterInputType="Letter">
+  <Segments>
+    <Segment SegmentTime="10" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>ช</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="86">น</string>
+    		<string spawnId="75">ม</string>
+    		<string spawnId="87">น</string>
+			<string spawnId="93">บ</string>
+			<string spawnId="74">ค</string>
+			<string spawnId="94">ช</string>
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="86,75,87,93,74,94">
+		
+		<MonsterRequiredLetters>
+			<string>บ</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string>อ</string>
+        	<string>ด</string>
+        	<string>ด</string>
+			<string>ง</string>
+			<string>ค</string>
+			<string>บ</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>ง</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="73">บ</string>
+	        <string spawnId="76">ม</string>
+	        <string delayIn="0" delayRepet="0" loop="true" spawnId="66,82,66" speed="125">ด</string>
+			<string spawnId="20">โ</string>
+			<string delayIn="0" delayRepet="0" loop="true" spawnId="83,67,83" speed="25">น</string>
+			<string spawnId="23">ง</string>
+			<string spawnId="15">MagnetLetter</string>
+			<string bonusScore="275" spawnId="14">BonusLetter</string>
+      	</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>บ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="73">บ</string>
+	        <string spawnId="76">ด</string>
+	        <string delayIn="0" delayRepet="0" loop="true" spawnId="66,82,66" speed="125">ง</string>
+			<string spawnId="20">บ</string>
+			<string delayIn="0" delayRepet="0" loop="true" spawnId="83,67,83" speed="25">โ</string>
+			<string spawnId="23">บ</string>
+			<string spawnId="14">MagnetLetter</string>
+			<string bonusScore="275" spawnId="15">BonusLetter</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>โ</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="65">ค</string>
+	        <string spawnId="68">ด</string>
+	        <string spawnId="6">ง</string>
+			<string spawnId="7">โ</string>
+			<string delayIn="0" delayRepet="0" loop="true" spawnId="77,80,77" speed="150">BonusLetter</string>
+			<string delayIn="0" delayRepet="0" loop="true" spawnId="24,29,24" speed="150">BonusLetter</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>

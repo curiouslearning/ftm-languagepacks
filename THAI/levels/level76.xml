@@ -1,0 +1,99 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="6" SegmentTime="10" StoneType="1" monsterInputType="SoundWord">
+	<Segments>
+		<Segment SegmentTime="10" spawnIds="">
+			
+			<MonsterRequiredLetters>
+				<string>ม</string>
+				<string>ุ</string>
+				<string>ง</string>
+			</MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string spawnId="81">บ</string>
+				<string spawnId="55">น</string>
+				<string spawnId="90">น</string>
+				<string spawnId="60">บ</string>
+				<string spawnId="89">ม</string>
+				<string spawnId="54">ุ</string>
+				<string spawnId="84">ง</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
+		<MonsterRequiredLetters>
+			<string>ช</string>
+			<string>ุ</string>
+			<string>น</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ม</string>
+			<string>บ</string>
+			<string>ม</string>
+			<string>บ</string>
+			<string>ช</string>
+			<string>ุ</string>
+			<string>น</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
+		<MonsterRequiredLetters>
+			<string>ม</string>
+			<string>ุ</string>
+			<string>ด</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ค</string>
+			<string>น</string>
+			<string>น</string>
+			<string>ช</string>
+			<string>ม</string>
+			<string>ุ</string>
+			<string>ด</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
+		<MonsterRequiredLetters>
+			<string>ม</string>
+			<string>ุ</string>
+			<string>ด</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>บ</string>
+			<string>บ</string>
+			<string>ช</string>
+			<string>น</string>       
+			<string>ม</string>
+			<string>ุ</string>
+			<string>ด</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="10" spawnIds="81,55,90,60,89,54,84">
+		
+		<MonsterRequiredLetters>
+			<string>ม</string>
+			<string>ุ</string>
+			<string>ง</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ช</string>
+			<string>ช</string>
+			<string>ค</string>
+			<string>ค</string>
+			<string>ม</string>
+			<string>ุ</string>
+			<string>ง</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>
