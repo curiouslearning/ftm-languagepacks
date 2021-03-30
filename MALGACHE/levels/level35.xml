@@ -1,0 +1,81 @@
+<XMLLevel CollectableMonster="" HideCallout="4" LettersGroup="3" SegmentTime="13" StoneType="2" monsterInputType="Word">
+	<Segments>
+		<Segment SegmentTime="13" spawnIds="9,96,8,95">
+			
+			<MonsterRequiredLetters>
+				<string>i</string>
+				<string>z</string>
+			<string>y</string></MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string>f</string>
+				<string>i</string>
+				<string>z</string>
+				<string>y</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="70,71,56,57">
+		
+		<MonsterRequiredLetters>
+			<string>i</string>
+			<string>t</string>
+		<string>y</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>d</string>
+			<string>i</string>
+			<string>t</string>
+			<string>y</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>i</string>
+			<string>t</string>
+		<string>y</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="82">l</string>
+			<string spawnId="55">i</string>
+			<string spawnId="83">t</string>
+			<string spawnId="54">y</string>
+			<string bonusScore="275" spawnId="60">BonusLetter</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>i</string>
+			<string>z</string>
+			<string>y</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="36">i</string>
+			<string spawnId="79">z</string>
+			<string spawnId="45">y</string>
+			<string spawnId="78">MagnetLetter</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="13" spawnIds="19,83,18,82">
+		
+		<MonsterRequiredLetters>
+			<string>i</string>
+			<string>t</string>
+		<string>y</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>n</string>
+			<string>i</string>
+			<string>t</string>
+			<string>y</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>
