@@ -1,0 +1,89 @@
+<XMLLevel CollectableMonster="" HideCallout="2" LettersGroup="4" SegmentTime="12" StoneType="1" monsterInputType="SoundWord">
+	<Segments>
+		<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+			
+			<MonsterRequiredLetters>
+				<string>เ</string>
+				<string>บ</string>
+				<string>ง</string>
+			</MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string>ค</string>
+				<string>อุ</string>
+				<string>เ</string>
+				<string>บ</string>
+				<string>ง</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>เ</string>
+			<string>ม</string>
+			<string>ง</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>อุ</string>
+			<string>ช</string>
+			<string>เ</string>
+			<string>ม</string>
+			<string>ง</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>เ</string>
+			<string>บ</string>
+			<string>ง</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ด</string>
+			<string>ช</string>
+			<string>เ</string>
+			<string>บ</string>
+			<string>ง</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>เ</string>
+			<string>บ</string>
+			<string>ง</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ค</string>
+			<string>ค</string>
+			<string>เ</string>       
+			<string>บ</string>
+			<string>ง</string>
+		</Stones>
+	</Segment>
+	<Segment SegmentTime="12" spawnIds="90,55,96,91,93">
+		
+		<MonsterRequiredLetters>
+			<string>เ</string>
+			<string>ด</string>
+			<string>น</string>
+		</MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>ม</string>
+			<string>ม</string>
+			<string>เ</string>
+			<string>ด</string>
+			<string>น</string>
+		</Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

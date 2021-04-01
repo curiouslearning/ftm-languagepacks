@@ -1,0 +1,79 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="2" SegmentTime="13" StoneType="1" monsterInputType="SoundWord">
+	<Segments>
+		<Segment SegmentTime="13" spawnIds="21,60,22">
+			
+			<MonsterRequiredLetters>
+				<string>k</string>
+				<string>e</string>
+				<string>r</string>
+			<string>e</string></MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string>k</string>
+				<string>e</string>
+				<string>r</string>
+			<string spawnId="30">e</string></Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="90,55,96">
+		
+		<MonsterRequiredLetters>
+			<string>b</string>
+			<string>e</string>
+			<string>b</string>
+		<string>e</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>b</string>
+			<string>e</string>
+			<string>b</string>
+		<string spawnId="22">e</string></Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="89,54,95">
+		
+		<MonsterRequiredLetters>
+			<string>k</string>
+			<string>e</string>
+			<string>r</string>
+		<string>e</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>k</string>
+			<string>e</string>
+			<string>r</string>
+		<string spawnId="24">e</string></Stones>
+    </Segment>
+	<Segment SegmentTime="13" spawnIds="59,93,36">
+		
+		<MonsterRequiredLetters>
+			<string>b</string>
+			<string>e</string>
+			<string>b</string>
+		<string>e</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>b</string>
+			<string>e</string>
+			<string>b</string>
+		<string spawnId="28">e</string></Stones>
+	</Segment>
+	<Segment SegmentTime="13" spawnIds="61,94,45">
+		
+		<MonsterRequiredLetters>
+			<string>b</string>
+			<string>e</string>
+			<string>b</string>
+		<string>e</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string>b</string>
+			<string>e</string>
+			<string>b</string>
+		<string spawnId="20">e</string></Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

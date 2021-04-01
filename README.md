@@ -5,7 +5,7 @@ Language packs for Feed the Monster localizations
 Used with the Feed the Monster Core, which contains all language-independent data for Feed the Monster, found here: https://github.com/curiouslearning/FeedTheMonster/
 
 # Creating a New Language Pack
-Use the FTMdefault directory as a template for your language pack directory. Configure the settings.json file as needed, and replace the image and sound assets from the subfolders with the appropriate
+Use the FTMdefault directory as a template for your language pack directory. Configure the settings.json file as needed, and replace the image and sound assets from the subfolders with the appropriate images and sound assets for your language.
 
 ## settings.json
 The settings.json file is used to define settings for the language, as follows:

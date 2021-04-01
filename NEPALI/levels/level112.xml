@@ -1,6 +1,6 @@
 <XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="18" SegmentTime="11" StoneType="1" monsterInputType="Letter">
   <Segments>
-    <Segment SegmentTime="10" spawnIds="">
+    <Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
     	
     	<MonsterRequiredLetters>
     		<string>i</string>
@@ -8,89 +8,89 @@
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string spawnId="87">1</string>
-			<string spawnId="78">229</string>
-    		<string spawnId="64">314</string>
-			<string spawnId="60">367</string>
-			<string spawnId="36">290</string>
-			<string spawnId="79">4</string>
+    		<string spawnId="87">131</string>
+			<string spawnId="78">276</string>
+    		<string spawnId="64">249</string>
+			<string spawnId="60">43</string>
+			<string spawnId="36">236</string>
+			<string spawnId="79">160</string>
 			<string spawnId="86">i</string>
 
-			<string spawnId="45">14</string>
+			<string spawnId="45">40</string>
     	</Stones>
 	</Segment>
-	<Segment SegmentTime="10" spawnIds="">
+	<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
 		
 		<MonsterRequiredLetters>
-			<string>204</string>
+			<string>203</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string spawnId="18">200</string>
-			<string spawnId="19">204</string>
-			<string spawnId="36">225</string>
-			<string spawnId="45">344</string>
-			<string spawnId="57">447</string>
-			<string spawnId="56">197</string>
+        	<string spawnId="18">404</string>
+			<string spawnId="19">203</string>
+			<string spawnId="36">119</string>
+			<string spawnId="45">159</string>
+			<string spawnId="57">160</string>
+			<string spawnId="56">171</string>
 			<string spawnId="8">Shield</string>
 			<string bonusScore="275" spawnId="9">BonusLetter</string>
       	</Stones>
     </Segment>
-	<Segment SegmentTime="10" spawnIds="">
+	<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
 		
       	<MonsterRequiredLetters>
-			<string>74</string>
+			<string>73</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string spawnId="10">188</string>
-	        <string spawnId="61">291</string>
-			<string spawnId="71">399</string>
+			<string spawnId="10">170</string>
+	        <string spawnId="61">337</string>
+			<string spawnId="71">263</string>
 
-			<string spawnId="96">67</string>
-			<string spawnId="13">74</string>
-			<string spawnId="95">25</string>
-			<string spawnId="55">283</string>
-			<string spawnId="70">466</string>
+			<string spawnId="96">294</string>
+			<string spawnId="13">73</string>
+			<string spawnId="95">287</string>
+			<string spawnId="55">112</string>
+			<string spawnId="70">129</string>
       	</Stones>
 	</Segment>
-	<Segment SegmentTime="10" spawnIds="">
+	<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
 		
       	<MonsterRequiredLetters>
-			<string>399</string>
+			<string>398</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string spawnId="20">399</string>
-			<string spawnId="23">269</string>
-			<string spawnId="54">334</string>
-			<string spawnId="55">303</string>
-			<string spawnId="58">458</string>
+	        <string spawnId="20">398</string>
+			<string spawnId="23">131</string>
+			<string spawnId="54">155</string>
+			<string spawnId="55">477</string>
+			<string spawnId="58">30</string>
 
 			<string spawnId="21">Shield</string>
 			<string bonusScore="275" spawnId="22">BonusLetter</string>
       	</Stones>
     </Segment>
-	<Segment SegmentTime="10" spawnIds="87,78,64,60,36,79,86,63,45">
+	<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
 		
       	<MonsterRequiredLetters>
-			<string>243</string>
+			<string>242</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>22</string>
-			<string>127</string>
-			<string>478</string>
-			<string>211</string>
-			<string>441</string>
-			<string>38</string>
-			<string>243</string>
-			<string>211</string>
-			<string>204</string>
+	        <string>381</string>
+			<string>82</string>
+			<string>456</string>
+			<string>408</string>
+			<string>389</string>
+			<string>106</string>
+			<string>242</string>
+			<string>2</string>
+			<string>391</string>
       	</Stones>
 	</Segment>
   </Segments>

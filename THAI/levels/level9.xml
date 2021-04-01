@@ -1,0 +1,79 @@
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="1" SegmentTime="14" StoneType="1" monsterInputType="Word">
+	<Segments>
+		<Segment SegmentTime="14" spawnIds="">
+			
+			<MonsterRequiredLetters>
+				<string>ง</string>
+				<string>า</string>
+				<string>น</string>
+			</MonsterRequiredLetters>
+			<MonsterAllLetters>
+			</MonsterAllLetters>
+			<Stones>
+				<string spawnId="21">ง</string>
+				<string spawnId="60">า</string>
+				<string spawnId="22">น</string>
+			</Stones>
+    </Segment>
+	<Segment SegmentTime="14" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ง</string>
+			<string>า</string>
+		<string>น</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="58">ง</string>
+			<string spawnId="93">า</string>
+			<string spawnId="36">น</string>
+		</Stones>
+    </Segment>
+	<Segment SegmentTime="14" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>ด</string>
+			<string>้</string>
+			<string>า</string>
+		<string>ม</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="45">ด</string>
+			<string spawnId="94">้</string>
+			<string spawnId="62">า</string>
+		<string spawnId="30">ม</string></Stones>
+    </Segment>
+	<Segment SegmentTime="14" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>บ</string>
+			<string>้</string>
+			<string>า</string>
+		<string>น</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="26">บ</string>
+			<string spawnId="8">้</string>
+			<string spawnId="9">า</string>
+			<string bonusScore="175" spawnId="27">BonusLetter</string>
+		<string spawnId="30">น</string></Stones>
+	</Segment>
+	<Segment SegmentTime="14" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>บ</string>
+			<string>้</string>
+		<string>า</string><string>น</string></MonsterRequiredLetters>
+		<MonsterAllLetters>
+		</MonsterAllLetters>
+		<Stones>
+			<string spawnId="26">บ</string>
+			<string spawnId="8">้</string>
+			<string spawnId="9">า</string>
+			<string spawnId="27">MagnetLetter</string>
+		<string spawnId="28">น</string></Stones>
+    </Segment>
+  </Segments>
+</XMLLevel>

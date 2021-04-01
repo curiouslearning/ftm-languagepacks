@@ -3,6 +3,6 @@
 	"ApplicationName": "Feed The Monster",
 	"VersionNumber": 1,
 	"ImageBasedRendering": false,
-	"NumLevels": 154,
+	"NumLevels": 150,
 	"HasTracingGame": true
 }
