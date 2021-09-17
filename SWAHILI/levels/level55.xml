@@ -1,0 +1,101 @@
+<XMLLevel CollectableMonster="" HideCallout="1" LettersGroup="5" SegmentTime="9" StoneType="1" monsterInputType="Letter">
+  <Segments>
+    <Segment SegmentTime="9" spawnIds="">
+    	
+    	<MonsterRequiredLetters>
+    		<string>v</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="20">f</string>
+    		<string spawnId="75">f</string>
+			<string spawnId="15">ny</string>
+    		<string spawnId="23">o</string>
+			<string spawnId="74">o</string>
+			<string spawnId="14">o</string>
+			<string spawnId="11">o</string>
+			<string spawnId="12">f</string>
+			<string spawnId="60">v</string>
+    	</Stones>
+	</Segment>
+	<Segment SegmentTime="9" spawnIds="">
+		
+		<MonsterRequiredLetters>
+			<string>o</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string spawnId="76">dh</string>
+        	<string spawnId="58">f</string>
+        	<string spawnId="3">dh</string>
+			<string spawnId="70">v</string>
+			<string spawnId="2">ny</string>
+			<string spawnId="62">ny</string>
+			<string spawnId="73">sh</string>
+			<string spawnId="78">v</string>
+			<string spawnId="71">o</string>
+			<string bonusScore="275" spawnId="79">BonusLetter</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="20,75,15,23,74,14,11,12,60">
+		
+      	<MonsterRequiredLetters>
+			<string>n</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string>dh</string>
+	        <string>o</string>
+			<string>ny</string>
+			<string>sh</string>
+			<string>ny</string>
+			<string>f</string>
+			<string>ny</string>
+			<string>ny</string>
+			<string>n</string>
+      	<string spawnId="20">y</string></Stones>
+	</Segment>
+	<Segment SegmentTime="9" spawnIds="">
+		
+      	<MonsterRequiredLetters>
+			<string>d</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="76">sh</string>
+	        <string spawnId="58">o</string>
+	        <string spawnId="3">o</string>
+			<string spawnId="70">sh</string>
+			<string spawnId="2">ny</string>
+			<string spawnId="62">sh</string>
+			<string spawnId="73">f</string>
+			<string spawnId="78">o</string>
+			<string spawnId="71">d</string>
+			<string bonusScore="275" spawnId="79">BonusLetter</string>
+      	</Stones>
+    </Segment>
+	<Segment SegmentTime="9" spawnIds="20,75,15,23,74,14,11,12,60">
+		
+      	<MonsterRequiredLetters>
+			<string>v</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>ny</string>
+	        <string>dh</string>
+	        <string>o</string>
+			<string>o</string>
+			<string>o</string>
+			<string>dh</string>
+			<string>sh</string>
+			<string>sh</string>
+			<string>v</string>
+      	</Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>
