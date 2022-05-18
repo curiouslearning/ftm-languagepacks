@@ -1,112 +1,99 @@
-<XMLLevel CollectableMonster="" HideCallout="2" LettersGroup="4" SegmentTime="10" StoneType="1" monsterInputType="LetterInWord">
+<XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="11" SegmentTime="11" StoneType="1" monsterInputType="LetterInWord">
   <Segments>
-    <Segment SegmentTime="10" spawnIds="5,4,74,75,56,57,87,86,60">
-      
-	  <MonsterRequiredLetters>
-		<string>о</string>
-	  </MonsterRequiredLetters>
-	  <MonsterAllLetters>
-		<string>X</string>
-		<string>г</string>
-		<string>о</string>
-	  </MonsterAllLetters>
-	  <Stones>
-        <string>й</string>
-        <string>й</string>
-        <string>д</string>
-		<string>й</string>
-		<string>о</string>
-		<string>д</string>
-		<string>д</string>
-		<string>й</string>
-		<string>о</string>
-      </Stones>
+  		<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
+		
+      	<MonsterRequiredLetters>
+			<string>л</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	<string>X</string><string>у</string><string>ґ</string></MonsterAllLetters>
+	  	<Stones>
+			<string spawnId="10">л</string>
+	        <string spawnId="61">у</string>
+			<string spawnId="71">р</string>
+
+			<string spawnId="96">у</string>
+			<string spawnId="13">а</string>
+			<string spawnId="95">щ</string>
+			<string spawnId="55">т</string>
+			<string spawnId="70">б</string>
+      	</Stones>
+	</Segment>
+    <Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
+    	
+    	<MonsterRequiredLetters>
+    		<string>ґ</string>
+    	</MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	<string>X</string><string>у</string><string>л</string></MonsterAllLetters>
+    	<Stones>
+    		<string spawnId="87">ж</string>
+			<string spawnId="78">ш</string>
+    		<string spawnId="64">ж</string>
+			<string spawnId="60">г</string>
+			<string spawnId="36">г</string>
+			<string spawnId="79">е</string>
+			<string spawnId="86">ґ</string>
+
+			<string spawnId="45">а</string>
+    	</Stones>
+	</Segment>
+
+
+	<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
+		
+      	<MonsterRequiredLetters>
+			<string>у</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	<string>X</string><string>с</string></MonsterAllLetters>
+	  	<Stones>
+	        <string spawnId="20">н</string>
+			<string spawnId="23">у</string>
+			<string spawnId="54">б</string>
+			<string spawnId="55">ч</string>
+			<string spawnId="58">а</string>
+
+			<string spawnId="21">Shield</string>
+			<string bonusScore="275" spawnId="22">BonusLetter</string>
+      	</Stones>
     </Segment>
-	<Segment SegmentTime="10" spawnIds="5,4,74,75,56,57,87,86,60">
-      
-	  <MonsterRequiredLetters>
-		<string>й</string>
-	  </MonsterRequiredLetters>
-	  <MonsterAllLetters>
-		<string>X</string>
-		<string>о</string>
-		<string>д</string>
-	  </MonsterAllLetters>
-	  <Stones>
-        <string>й</string>
-        <string>д</string>
-        <string>д</string>
-		<string>г</string>
-		<string>щ</string>
-		<string>о</string>
-		<string>щ</string>
-		<string>д</string>
-		<string>й</string>
-      </Stones>
-    </Segment>
-	<Segment SegmentTime="10" spawnIds="5,4,74,75,56,57,87,86,60">
-      
-	  <MonsterRequiredLetters>
-		<string>щ</string>
-	  </MonsterRequiredLetters>
-	  <MonsterAllLetters>
-		<string>X</string>
-		<string>о</string>
-		</MonsterAllLetters>
-	  <Stones>
-        <string>д</string>
-        <string>й</string>
-        <string>й</string>
-		<string>д</string>
-		<string>о</string>
-		<string>о</string>
-		<string>щ</string>
-		<string>г</string>
-		<string>щ</string>
-      </Stones>
-    </Segment>
-	<Segment SegmentTime="10" spawnIds="5,4,74,75,56,57,87,86,60">
-      
-	  <MonsterRequiredLetters>
-		<string>д</string>
-	  </MonsterRequiredLetters>
-	  <MonsterAllLetters>
-		<string>X</string>
-		<string>о</string>
-		<string>г</string>
-	  </MonsterAllLetters>
-	  <Stones>
-        <string>щ</string>
-        <string>г</string>
-        <string>о</string>
-		<string>д</string>
-		<string>й</string>
-		<string>щ</string>
-		<string>г</string>
-		<string>й</string>
-		<string>д</string>
-      </Stones>
-    </Segment>
-	<Segment SegmentTime="10" spawnIds="5,4,74,75,56,57,87,86,60">
-      
-	  <MonsterRequiredLetters>
-		<string>о</string>
-	  </MonsterRequiredLetters>
-	  <MonsterAllLetters>
-		<string>X</string>
-		<string>й</string>
-		</MonsterAllLetters>
-	  <Stones>
-        <string>щ</string>
-        <string>й</string>
-        <string>о</string>
-		<string>г</string>
-		<string>д</string>
-		<string>д</string>
-		<string>д</string>
-		<string>щ</string>
-		<string>о</string>
-      </Stones>
+	<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
+		
+      	<MonsterRequiredLetters>
+			<string>ж</string>
+	  	</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	<string>X</string><string>у</string><string>к</string></MonsterAllLetters>
+	  	<Stones>
+	        <string>ч</string>
+			<string>ч</string>
+			<string>н</string>
+			<string>с</string>
+			<string>у</string>
+			<string>л</string>
+			<string>ж</string>
+			<string>у</string>
+			<string>o</string>
+      	</Stones>
+	</Segment>
+		<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
+		
+		<MonsterRequiredLetters>
+			<string>у</string>
+		</MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	<string>X</string><string>л</string><string>у</string><string>с</string></MonsterAllLetters>
+	  	<Stones>
+        	<string spawnId="18">у</string>
+			<string spawnId="19">а</string>
+			<string spawnId="36">к</string>
+			<string spawnId="45">с</string>
+			<string spawnId="57">а</string>
+			<string spawnId="56">п</string>
+			<string spawnId="8">Shield</string>
+			<string bonusScore="275" spawnId="9">BonusLetter</string>
+      	</Stones>
     </Segment>
   </Segments>
 </XMLLevel>
