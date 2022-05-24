@@ -8,15 +8,15 @@
 	  	<MonsterAllLetters>
 	  	<string>X</string><string>е</string><string>ї</string></MonsterAllLetters>
 	  	<Stones>
-			<string spawnId="10">п</string>
-	        <string spawnId="61">є</string>
+			<string spawnId="10">ї</string>
+	        <string spawnId="61">о</string>
 			<string spawnId="71">ї</string>
 
 			<string spawnId="96">ф</string>
-			<string spawnId="13">з</string>
-			<string spawnId="95">ї</string>
-			<string spawnId="55">ч</string>
-			<string spawnId="70">с</string>
+			<string spawnId="13">ї</string>
+			<string spawnId="95">ч</string>
+			<string spawnId="55">н</string>
+			<string spawnId="70">ч</string>
       	</Stones>
 	</Segment>
     <Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
@@ -27,15 +27,15 @@
     	<MonsterAllLetters>
     	<string>X</string><string>о</string><string>ї</string></MonsterAllLetters>
     	<Stones>
-    		<string spawnId="87">ї</string>
-			<string spawnId="78">ф</string>
+    		<string spawnId="87">ф</string>
+			<string spawnId="78">п</string>
     		<string spawnId="64">і</string>
-			<string spawnId="60">х</string>
-			<string spawnId="36">д</string>
+			<string spawnId="60">н</string>
+			<string spawnId="36">ц</string>
 			<string spawnId="79">м</string>
-			<string spawnId="86">ї</string>
+			<string spawnId="86">д</string>
 
-			<string spawnId="45">є</string>
+			<string spawnId="45">ґ</string>
     	</Stones>
 	</Segment>
 	<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
@@ -46,10 +46,10 @@
 	  	<MonsterAllLetters>
 	  	<string>X</string><string>ж</string><string>а</string><string>к</string></MonsterAllLetters>
 	  	<Stones>
-	        <string spawnId="20">к</string>
-			<string spawnId="23">m</string>
-			<string spawnId="54">m</string>
-			<string spawnId="55">л</string>
+	        <string spawnId="20">д</string>
+			<string spawnId="23">м</string>
+			<string spawnId="54">с</string>
+			<string spawnId="55">у</string>
 			<string spawnId="58">ї</string>
 
 			<string spawnId="21">Shield</string>
@@ -64,12 +64,12 @@
 	  	<MonsterAllLetters>
 	  	<string>X</string><string>і</string><string>ї</string></MonsterAllLetters>
 	  	<Stones>
-        	<string spawnId="18">m</string>
+        	<string spawnId="18">з</string>
 			<string spawnId="19">д</string>
-			<string spawnId="36">o</string>
-			<string spawnId="45">с</string>
-			<string spawnId="57">ї</string>
-			<string spawnId="56">p</string>
+			<string spawnId="36">з</string>
+			<string spawnId="45">ї</string>
+			<string spawnId="57">я</string>
+			<string spawnId="56">п</string>
 
 			<string bonusScore="275" spawnId="9">BonusLetter</string>
       	</Stones>
@@ -84,15 +84,15 @@
 	  	<MonsterAllLetters>
 	  	<string>X</string><string>ж</string><string>а</string></MonsterAllLetters>
 	  	<Stones>
-	        <string>м</string>
-			<string>з</string>
-			<string>ґ</string>
+	        <string>н</string>
+			<string>б</string>
 			<string>с</string>
-			<string>ж</string>
-			<string>а</string>
-			<string>р</string>
-			<string>ї</string>
 			<string>щ</string>
+			<string>г</string>
+			<string>у</string>
+			<string>с</string>
+			<string>ї</string>
+			<string>ж</string>
       	</Stones>
 	</Segment>
   </Segments>

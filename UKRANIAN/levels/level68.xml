@@ -7,7 +7,7 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string>и</string><string>у</string><string>я</string><string>ф</string><string>к</string><string>c</string><string>з</string><string>д</string></Stones>
+			<string>к</string><string>п</string><string>я</string><string>л</string><string>и</string><string>р</string><string>з</string><string>у</string></Stones>
 	</Segment>
     <Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
     	
@@ -16,16 +16,16 @@
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string>д</string><string>щ</string><string>я</string><string>m</string><string>р</string><string>ґ</string></Stones>
+    		<string>я</string><string>х</string><string>р</string><string>и</string><string>д</string><string>ж</string></Stones>
 	</Segment>
 	<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
 		
       	<MonsterRequiredLetters>
-			<string>я</string><string>к</string><string>i</string><string>р</string></MonsterRequiredLetters>
+			<string>я</string><string>к</string><string>і</string><string>р</string></MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>i</string><string>о</string><string>я</string><string>ц</string><string>р</string><string>н</string><string>к</string><string>в</string></Stones>
+	        <string>я</string><string>ж</string><string>і</string><string>в</string><string>р</string><string>и</string><string>к</string><string>с</string></Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
 		
@@ -34,7 +34,7 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string>д</string><string>і</string><string>н</string><string>и</string><string>я</string><string>ф</string></Stones>
+        	<string>н</string><string>р</string><string>д</string><string>с</string><string>я</string><string>л</string></Stones>
     </Segment>
 
 
@@ -45,7 +45,7 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>д</string><string>і</string><string>я</string><string>р</string><string>о</string><string>в</string><string>г</string><string>ж</string></Stones>
+	        <string>д</string><string>х</string><string>г</string><string>з</string><string>о</string><string>ґ</string><string>я</string><string>и</string></Stones>
 	</Segment>
   </Segments>
 </XMLLevel>

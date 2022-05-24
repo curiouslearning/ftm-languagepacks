@@ -8,20 +8,20 @@
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string>m</string>
+    		<string>ж</string>
     		<string>а</string>
     	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="20,75,15,23,74,14,11,12,60">
 		
 		<MonsterRequiredLetters>
-			<string>m</string>
+			<string>м</string>
 		</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string>б</string>
-        	<string>m</string>
+        	<string>ж</string>
+        	<string>м</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="20,75,15,23,74,14,11,12,60">
@@ -33,7 +33,7 @@
 	  	</MonsterAllLetters>
 	  	<Stones>
 			<string>б</string>
-	        <string>т</string>
+	        <string>м</string>
       	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="20,75,15,23,74,14,11,12,60">
@@ -45,7 +45,7 @@
 	  	</MonsterAllLetters>
 	  	<Stones>
 	        <string>ж</string>
-	        <string>б</string>
+	        <string>м</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="20,75,15,23,74,14,11,12,60">

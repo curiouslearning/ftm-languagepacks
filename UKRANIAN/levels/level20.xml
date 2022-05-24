@@ -8,10 +8,10 @@
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string spawnId="84">і</string>
-    		<string spawnId="54">в</string>
+    		<string spawnId="84">р</string>
+    		<string spawnId="54">н</string>
     		<string spawnId="55">ц</string>
-			<string spawnId="81">п</string>
+			<string spawnId="81">р</string>
     	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="20,75,15,23,74,14,11,12,60">
@@ -22,10 +22,10 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string spawnId="82">і</string>
+        	<string spawnId="82">р</string>
         	<string spawnId="8">к</string>
-        	<string spawnId="83">ж</string>
-			<string spawnId="9">ж</string>
+        	<string spawnId="83">ц</string>
+			<string spawnId="9">п</string>
       	</Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="20,75,15,23,74,14,11,12,60">
@@ -37,9 +37,9 @@
 	  	</MonsterAllLetters>
 	  	<Stones>
 			<string spawnId="23">і</string>
-	        <string spawnId="74">ж</string>
+	        <string spawnId="74">м</string>
 	        <string spawnId="75">ф</string>
-			<string spawnId="20">т</string>
+			<string spawnId="20">п</string>
       	</Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="20,75,15,23,74,14,11,12,60">
@@ -50,9 +50,9 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string spawnId="3">п</string>
-	        <string spawnId="70">ц</string>
-	        <string spawnId="71">ф</string>
+	        <string spawnId="3">к</string>
+	        <string spawnId="70">п</string>
+	        <string spawnId="71">р</string>
 			<string spawnId="2">д</string>
       	</Stones>
     </Segment>
@@ -64,9 +64,9 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string spawnId="89">т</string>
-	        <string spawnId="96">ц</string>
-	        <string spawnId="95">а</string>
+	        <string spawnId="89">а</string>
+	        <string spawnId="96">р</string>
+	        <string spawnId="95">і</string>
 			<string spawnId="90">п</string>
 	        <string bonusScore="125" spawnId="18">BonusLetter</string>
 			<string bonusScore="125" spawnId="19">BonusLetter</string>

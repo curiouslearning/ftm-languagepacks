@@ -7,7 +7,7 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string>ф</string><string>р</string><string>ї</string><string>і</string><string>е</string><string>х</string></Stones>
+			<string>ї</string><string>у</string><string>е</string><string>с</string><string>ф</string><string>н</string></Stones>
 	</Segment>
     <Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
     	
@@ -16,7 +16,7 @@
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string>ї</string><string>б</string><string>і</string><string>c</string><string>д</string><string>o</string></Stones>
+    		<string>д</string><string>ю</string><string>і</string><string>ц</string><string>ї</string><string>в</string></Stones>
 	</Segment>
 	<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
 		
@@ -25,7 +25,7 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>а</string><string>б</string><string>ї</string><string>н</string><string>ж</string><string>и</string></Stones>
+	        <string>ж</string><string>щ</string><string>а</string><string>о</string><string>ї</string><string>ґ</string></Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
 		
@@ -34,7 +34,7 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string>ї</string><string>я</string><string>м</string><string>ш</string><string>о</string><string>у</string></Stones>
+        	<string>ї</string><string>н</string><string>м</string><string>к</string><string>о</string><string>ш</string></Stones>
     </Segment>
 
 
@@ -45,7 +45,7 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>а</string><string>о</string><string>ж</string><string>е</string><string>к</string><string>o</string><string>ї</string><string>е</string></Stones>
+	        <string>ї</string><string>и</string><string>ж</string><string>п</string><string>а</string><string>о</string><string>к</string><string>є</string></Stones>
 	</Segment>
   </Segments>
 </XMLLevel>
