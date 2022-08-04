@@ -7,7 +7,7 @@
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string>в</string><string>ж</string><string>р</string><string>м</string><string>е</string><string>т</string></Stones>
+    		<string>в</string><string>ф</string><string>р</string><string>б</string><string>е</string><string>ш</string></Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="20,75,15,23,74,14,11,12,60">
 		
@@ -16,7 +16,7 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string>е</string><string>б</string><string>н</string><string>б</string></Stones>
+        	<string>н</string><string>т</string><string>е</string><string>б</string></Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="20,75,15,23,74,14,11,12,60">
 		
@@ -25,7 +25,7 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string>в</string><string>ш</string><string>р</string><string>т</string><string>е</string><string>а</string></Stones>
+			<string>р</string><string>а</string><string>е</string><string>т</string><string>в</string><string>а</string></Stones>
 	</Segment>
 	<Segment SegmentTime="11" spawnIds="20,75,15,23,74,14,11,12,60">
 		
@@ -34,7 +34,7 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>р</string><string>м</string><string>е</string><string>а</string><string>н</string><string>а</string><string>в</string><string>б</string></Stones>
+	        <string>н</string><string>ж</string><string>в</string><string>м</string><string>е</string><string>ф</string><string>р</string><string>а</string></Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="20,75,15,23,74,14,11,12,60">
 		
@@ -43,7 +43,7 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>ш</string><string>m</string><string>е</string><string>ж</string><string>ф</string><string>ж</string></Stones>
+	        <string>ш</string><string>н</string><string>е</string><string>н</string><string>ф</string><string>т</string></Stones>
 	</Segment>
   </Segments>
 </XMLLevel>

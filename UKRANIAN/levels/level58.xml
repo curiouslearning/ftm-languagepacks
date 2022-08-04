@@ -7,7 +7,7 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string>м</string><string>o</string><string>и</string><string>з</string></Stones>
+			<string>м</string><string>д</string><string>и</string><string>т</string></Stones>
 	</Segment>
     <Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
     	
@@ -16,7 +16,7 @@
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string>и</string><string>п</string><string>м</string><string>н</string><string>х</string><string>г</string><string>з</string><string>о</string></Stones>
+    		<string>з</string><string>к</string><string>х</string><string>г</string><string>и</string><string>ґ</string><string>м</string><string>у</string></Stones>
 	</Segment>
 	<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
 		
@@ -25,7 +25,7 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>з</string><string>а</string><string>и</string><string>ф</string><string>и</string><string>ф</string><string>м</string><string>m</string></Stones>
+	        <string>м</string><string>р</string><string>з</string><string>г</string><string>и</string><string>в</string><string>и</string><string>р</string></Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
 		
@@ -34,7 +34,7 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string>к</string><string>щ</string><string>с</string><string>o</string><string>і</string><string>ц</string></Stones>
+        	<string>с</string><string>д</string><string>к</string><string>щ</string><string>і</string><string>р</string></Stones>
     </Segment>
 
 
@@ -45,7 +45,7 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>ш</string><string>ж</string><string>ф</string><string>р</string><string>и</string><string>б</string><string>а</string><string>л</string></Stones>
+	        <string>и</string><string>д</string><string>ш</string><string>в</string><string>а</string><string>ж</string><string>ф</string><string>у</string></Stones>
 	</Segment>
   </Segments>
 </XMLLevel>

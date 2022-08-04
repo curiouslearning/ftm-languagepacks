@@ -1,7 +1,7 @@
 <XMLLevel CollectableMonster="" HideCallout="3" LettersGroup="4" SegmentTime="10" StoneType="1" monsterInputType="SoundLetter">
   <Segments>
     <Segment SegmentTime="10" spawnIds="">
-    	
+
     	<MonsterRequiredLetters>
     		<string>r</string>
     	</MonsterRequiredLetters>
@@ -17,7 +17,7 @@
     	</Stones>
 	</Segment>
 	<Segment SegmentTime="10" spawnIds="69,84,8,72,81,9">
-		
+
 		<MonsterRequiredLetters>
 			<string>o</string>
 		</MonsterRequiredLetters>
@@ -28,8 +28,9 @@
         	<string spawnId="28">e</string><string spawnId="30">e</string><string spawnId="22">t</string><string spawnId="24">o</string></Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="">
-		
+
       	<MonsterRequiredLetters>
+								<string>v</string>
 			</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
@@ -40,7 +41,7 @@
 			<string spawnId="30">r</string></Stones>
 	</Segment>
 	<Segment SegmentTime="10" spawnIds="90,95,55,89,96,54">
-		
+
       	<MonsterRequiredLetters>
 			<string>v</string>
 	  	</MonsterRequiredLetters>
@@ -56,7 +57,7 @@
       	</Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="">
-		
+
       	<MonsterRequiredLetters>
 			<string>k</string>
 	  	</MonsterRequiredLetters>

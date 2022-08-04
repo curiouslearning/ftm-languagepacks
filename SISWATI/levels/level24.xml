@@ -17,15 +17,18 @@
     </Segment>
 	<Segment SegmentTime="13" spawnIds="90,55,96">
 
-		<MonsterRequiredLetters>
-			</MonsterRequiredLetters>
-		<MonsterAllLetters>
-		</MonsterAllLetters>
-		<Stones>
-			<string>l</string>
-			<string>c</string>
-			<string>c</string>
-		</Stones>
+				<MonsterRequiredLetters>
+					<string>t</string>
+					<string>s</string>
+					<string>i</string>
+				</MonsterRequiredLetters>
+				<MonsterAllLetters>
+				</MonsterAllLetters>
+				<Stones>
+					<string>t</string>
+					<string>s</string>
+					<string>i</string>
+				</Stones>
     </Segment>
 	<Segment SegmentTime="13" spawnIds="89,54,95">
 

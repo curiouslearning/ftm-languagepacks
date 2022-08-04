@@ -7,7 +7,7 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-        	<string>є</string><string>г</string><string>м</string><string>н</string><string>а</string><string>у</string></Stones>
+        	<string>м</string><string>з</string><string>є</string><string>и</string><string>а</string><string>ч</string></Stones>
     </Segment>
     <Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
     	
@@ -16,7 +16,7 @@
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string>н</string><string>е</string><string>и</string><string>д</string><string>с</string><string>ю</string><string>є</string><string>о</string></Stones>
+    		<string>и</string><string>в</string><string>є</string><string>з</string><string>н</string><string>б</string><string>с</string><string>е</string></Stones>
 	</Segment>
 
 	<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
@@ -26,7 +26,7 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-			<string>є</string><string>р</string><string>в</string><string>с</string><string>о</string><string>м</string><string>д</string><string>я</string></Stones>
+			<string>о</string><string>р</string><string>є</string><string>л</string><string>в</string><string>ф</string><string>д</string><string>ш</string></Stones>
 	</Segment>
 		<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
 		
@@ -35,7 +35,7 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>а</string><string>х</string><string>є</string><string>m</string><string>д</string><string>m</string></Stones>
+	        <string>д</string><string>о</string><string>є</string><string>ф</string><string>а</string><string>т</string></Stones>
 	</Segment>
 	<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
 		
@@ -44,7 +44,7 @@
 	  	<MonsterAllLetters>
 	  	</MonsterAllLetters>
 	  	<Stones>
-	        <string>є</string><string>p</string><string>м</string><string>д</string><string>о</string><string>и</string></Stones>
+	        <string>м</string><string>ф</string><string>о</string><string>ц</string><string>є</string><string>р</string></Stones>
     </Segment>
 
   </Segments>

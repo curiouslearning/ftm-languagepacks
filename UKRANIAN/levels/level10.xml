@@ -10,8 +10,8 @@
 	  </MonsterAllLetters>
 	  <Stones>
         <string>р</string>
-        <string>а</string>
-        <string>е</string>
+        <string>т</string>
+        <string>в</string>
       </Stones>
     </Segment>
 
@@ -25,8 +25,8 @@
 	  </MonsterAllLetters>
 	  <Stones>
         <string>ф</string>
-        <string>н</string>
-        <string>ш</string>
+        <string>м</string>
+        <string>т</string>
       </Stones>
     </Segment>
 
@@ -40,8 +40,8 @@
 	  </MonsterAllLetters>
 	  <Stones>
         <string>ш</string>
-        <string>р</string>
-        <string>р</string>
+        <string>ф</string>
+        <string>ф</string>
       </Stones>
     </Segment>
 
@@ -54,8 +54,8 @@
 	  <MonsterAllLetters>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string>ф</string>
         <string>н</string>
+        <string>ф</string>
         <string>в</string>
 		<string bonusScore="150">BonusLetter</string>
       </Stones>
@@ -69,9 +69,9 @@
 	  <MonsterAllLetters>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string>а</string>
+        <string>р</string>
         <string>н</string>
-        <string>ф</string>
+        <string>е</string>
       </Stones>
     </Segment>
 
