@@ -10,14 +10,24 @@
 			<string>ч</string><string>р</string><string>ю</string><string>щ</string><string>у</string><string>ц</string></Stones>
 	</Segment>
     <Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
-    	
-    	<MonsterRequiredLetters>
-    		<string>в</string><string>с</string><string>ю</string></MonsterRequiredLetters>
-    	<MonsterAllLetters>
-    	</MonsterAllLetters>
-    	<Stones>
-    		<string>с</string><string>ч</string><string>ю</string><string>б</string><string>в</string><string>е</string></Stones>
-	</Segment>
+
+
+      <MonsterRequiredLetters>
+        <string>ш</string>
+        <string>и</string>
+        <string>ю</string>
+      </MonsterRequiredLetters>
+      <MonsterAllLetters>
+      </MonsterAllLetters>
+      <Stones>
+        <string>и</string>
+        <string>м</string>
+        <string>ш</string>
+        <string>у</string>
+        <string>ю</string>
+        <string>у</string>
+      </Stones>
+    </Segment>
 	<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
 		
       	<MonsterRequiredLetters>
@@ -28,14 +38,23 @@
 	        <string>ю</string><string>и</string><string>н</string><string>а</string><string>х</string><string>ц</string></Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
-		
-		<MonsterRequiredLetters>
-			<string>ч</string><string>а</string><string>ю</string></MonsterRequiredLetters>
-	  	<MonsterAllLetters>
-	  	</MonsterAllLetters>
-	  	<Stones>
-        	<string>ю</string><string>и</string><string>а</string><string>д</string><string>ч</string><string>е</string></Stones>
-    </Segment>
+
+    <MonsterRequiredLetters>
+      <string>ч</string>
+      <string>у</string>
+      <string>ю</string>
+    </MonsterRequiredLetters>
+    <MonsterAllLetters>
+    </MonsterAllLetters>
+    <Stones>
+      <string>ч</string>
+      <string>р</string>
+      <string>ю</string>
+      <string>щ</string>
+      <string>у</string>
+      <string>ц</string>
+    </Stones>
+  </Segment>
 
 
 	<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">

@@ -23,7 +23,7 @@
 	  <Stones>
         <string spawnId="4">ц</string>
         <string spawnId="54">т</string>
-		<string spawnId="58">е</string>
+		<string spawnId="58">д</string>
       </Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="20,75,15,23,74,14,11,12,60">

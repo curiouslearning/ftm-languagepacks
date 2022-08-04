@@ -1,6 +1,6 @@
 <XMLLevel CollectableMonster="" HideCallout="-1" LettersGroup="2" SegmentTime="13" StoneType="1" monsterInputType="Word">
 	<Segments>
-		s	<Segment SegmentTime="13" spawnIds="">
+			<Segment SegmentTime="13" spawnIds="">
 
 				<MonsterRequiredLetters>
 					<string>y</string>

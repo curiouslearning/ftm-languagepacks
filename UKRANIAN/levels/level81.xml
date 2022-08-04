@@ -27,13 +27,13 @@
     	<MonsterAllLetters>
     	</MonsterAllLetters>
     	<Stones>
-    		<string spawnId="87">ц</string>
-			<string spawnId="78">м</string>
-    		<string spawnId="64">д</string>
-			<string spawnId="60">м</string>
-			<string spawnId="36">т</string>
-			<string spawnId="79">н</string>
-			<string spawnId="86">м</string>
+    		<string >ц</string>
+			<string >м</string>
+    		<string >д</string>
+			<string >м</string>
+			<string >т</string>
+			<string >н</string>
+
 
 			<string spawnId="45">в</string>
     	</Stones>

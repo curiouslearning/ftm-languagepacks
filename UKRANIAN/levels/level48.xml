@@ -4,22 +4,22 @@
 <Segment SegmentTime="11" spawnIds="20,75,15,23,74,14,11,12,60">
       
 	  <MonsterRequiredLetters>
-		<string>л</string><string>у</string><string>ґ</string></MonsterRequiredLetters>
+		<string>л</string><string>у</string><string>г</string></MonsterRequiredLetters>
 	  <MonsterAllLetters>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string>у</string><string>ш</string><string>ґ</string><string>г</string><string>л</string><string>с</string></Stones>
+        <string>у</string><string>г</string><string>ґ</string><string>л</string><string>с</string></Stones>
     </Segment>
 
 
       <Segment SegmentTime="11" spawnIds="20,75,15,23,74,14,11,12,60">
       
 	  <MonsterRequiredLetters>
-		<string>ґ</string><string>у</string><string>л</string></MonsterRequiredLetters>
+		<string>г</string><string>у</string><string>л</string></MonsterRequiredLetters>
 	  <MonsterAllLetters>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string>л</string><string>ч</string><string>ґ</string><string>н</string><string>у</string><string>м</string></Stones>
+        <string>л</string><string>ч</string><string>ґ</string><string>г</string><string>у</string><string>м</string></Stones>
     </Segment>
 
 

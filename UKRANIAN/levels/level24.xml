@@ -21,7 +21,7 @@
 	  <MonsterAllLetters>
 	  <string>X</string><string>і</string><string>п</string></MonsterAllLetters>
 	  <Stones>
-        <string spawnId="4">е</string>
+        <string spawnId="4">п</string>
         <string spawnId="54">ж</string>
 		<string spawnId="58">б</string>
       </Stones>

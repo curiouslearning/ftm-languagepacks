@@ -28,14 +28,27 @@
 	        <string>я</string><string>ж</string><string>і</string><string>в</string><string>р</string><string>и</string><string>к</string><string>с</string></Stones>
     </Segment>
 	<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
-		
-		<MonsterRequiredLetters>
-			<string>д</string><string>н</string><string>я</string></MonsterRequiredLetters>
-	  	<MonsterAllLetters>
-	  	</MonsterAllLetters>
-	  	<Stones>
-        	<string>н</string><string>р</string><string>д</string><string>с</string><string>я</string><string>л</string></Stones>
-    </Segment>
+
+
+    <MonsterRequiredLetters>
+      <string>я</string>
+      <string>з</string>
+      <string>и</string>
+      <string>к</string>
+    </MonsterRequiredLetters>
+    <MonsterAllLetters>
+    </MonsterAllLetters>
+    <Stones>
+      <string>к</string>
+      <string>п</string>
+      <string>я</string>
+      <string>л</string>
+      <string>и</string>
+      <string>р</string>
+      <string>з</string>
+      <string>у</string>
+    </Stones>
+  </Segment>
 
 
 	<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">

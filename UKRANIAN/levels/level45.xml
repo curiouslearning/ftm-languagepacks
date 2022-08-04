@@ -40,13 +40,13 @@
 	<Segment SegmentTime="10" spawnIds="20,75,15,23,74,14,11,12,60">
 		
       	<MonsterRequiredLetters>
-			<string>ґ</string>
+			<string>г</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
 	  	<string>X</string><string>у</string><string>л</string></MonsterAllLetters>
 	  	<Stones>
 			<string spawnId="10">е</string>
-	        <string spawnId="61">ґ</string>
+	        <string spawnId="61">г</string>
 			<string spawnId="71">е</string>
 
 			<string spawnId="96">м</string>
@@ -80,7 +80,7 @@
 			<string>л</string>
 	  	</MonsterRequiredLetters>
 	  	<MonsterAllLetters>
-	  	<string>X</string><string>у</string><string>ґ</string></MonsterAllLetters>
+	  	<string>X</string><string>у</string><string>г</string></MonsterAllLetters>
 	  	<Stones>
 	        <string>о</string>
 			<string>р</string>

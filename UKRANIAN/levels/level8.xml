@@ -16,7 +16,7 @@
 	  <MonsterAllLetters>
 	  </MonsterAllLetters>
 	  <Stones>
-        <string>а</string><string>м</string><string>а</string><string>м</string><string>т</string><string>ж</string><string>т</string><string>ж</string><string>б</string><string>ж</string></Stones>
+        <string>а</string><string>м</string><string>а</string><string>м</string><string>т</string><string>ж</string><string>т</string><string>ж</string><string>б</string></Stones>
     </Segment>
 	<Segment SegmentTime="11" spawnIds="20,75,15,23,74,14,11,12,60">
       
