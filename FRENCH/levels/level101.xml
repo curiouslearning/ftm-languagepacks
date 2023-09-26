@@ -1,0 +1,51 @@
+<XMLLevel monsterInputType="Word" CollectableMonster="" SegmentTime="11" HideCallout="-1" LettersGroup="15" StoneType="1">
+  <Segments>
+  		<Segment spawnIds="20,75,15,23,74,14,11,12,60" SegmentTime="10">
+		
+      	<MonsterRequiredLetters>
+			<string>p</string><string>r</string><string>ê</string><string>t</string></MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+			<string>t</string><string>u</string><string>p</string><string>à</string><string>ê</string><string>h</string><string>r</string><string /></Stones>
+	</Segment>
+    <Segment spawnIds="20,75,15,23,74,14,11,12,60" SegmentTime="10">
+    	
+    	<MonsterRequiredLetters>
+    		<string>î</string><string>l</string><string>e</string></MonsterRequiredLetters>
+    	<MonsterAllLetters>
+    	</MonsterAllLetters>
+    	<Stones>
+    		<string>l</string><string>j</string><string>î</string><string>m</string><string>e</string><string>j</string></Stones>
+	</Segment>
+	<Segment spawnIds="20,75,15,23,74,14,11,12,60" SegmentTime="10">
+		
+      	<MonsterRequiredLetters>
+			<string>c</string><string>ô</string><string>t</string><string>é</string></MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>t</string><string>ê</string><string>ô</string><string>û</string><string>c</string><string>r</string><string>é</string><string>û</string></Stones>
+    </Segment>
+	<Segment spawnIds="20,75,15,23,74,14,11,12,60" SegmentTime="10">
+		
+		<MonsterRequiredLetters>
+			<string>g</string><string>â</string><string>t</string><string>é</string></MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+        	<string>t</string><string>côt</string><string>g</string><string>i</string><string>â</string><string /><string>é</string><string>à</string></Stones>
+    </Segment>
+
+
+	<Segment spawnIds="20,75,15,23,74,14,11,12,60" SegmentTime="10">
+		
+      	<MonsterRequiredLetters>
+			<string>s</string><string>û</string><string>r</string></MonsterRequiredLetters>
+	  	<MonsterAllLetters>
+	  	</MonsterAllLetters>
+	  	<Stones>
+	        <string>û</string><string>y</string><string>s</string><string>v</string><string>r</string><string>êtr</string></Stones>
+	</Segment>
+  </Segments>
+</XMLLevel>
